@@ -1,0 +1,8 @@
+KEYWORDS
+All images are tagged with the name of the mod, saddle colour, and horse type in that specific order (e.g. Elle's New Horses GreenSaddle Andalusian). Horses without saddles are tagged "NoSaddle" or "False".
+The keywords work more like phrases than individual words. So you have to type the words in a specific order. So for example looking for "Saddle Green" wouldn't work,  because I haven't coded it as a keyword put that exact phrase as a keyword, but "Green", "GreenSaddle", or "Elle's New Horses GreenSaddle Andalusian" will.
+
+How to use:
+1. Look up which texture you want has what keywords based on the reference images
+2. Right click on the animal with the scissor tool
+3. Type the keywords in the search bar in the top right corner

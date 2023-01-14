@@ -1,0 +1,23 @@
+﻿{
+	//Tools name changes
+	"Copper": "Patched",
+	"Steel": "Restored",
+	"Gold": "Reinforced",
+	"Iridium": "Masterwork",
+	"Bamboo_Pole": "Old Fishing Rod",
+	"Fiberglass_Rod": "Reinforced Fishing Rod",
+	"Iridium_Rod": "Masterwork Fishing Rod",
+	
+	//Golden scythe to sickle changes
+	"Empty_hopper": "The hopper is empty. Build a silo and cut grass with your scythe or sickle to refill it.",
+	"Scythe_harvest": "Requires scythe or sickle",
+	"Golden_Scythe": "Golden Sickle",
+	"Golden_Scythe_info": "It's more powerful than a scythe.",
+	
+	//Seed info
+	"Rice_Shoot": "Plant these in the spring. Takes 8 days to mature. Grows faster if planted near a body of water. Harvest with scythe or sickle.",
+	"Amaranth_Seeds": "Plant these in the fall. Takes 7 days to grow. Harvest with scythe or sickle.",
+	"Kale_Seeds": "Plant these in the spring. Takes 6 days to mature. Harvest with scythe or sickle.",
+	"Wheat_Seeds": "Plant these in the summer or fall. Takes 4 days to mature. Harvest with scythe or sickle.",
+	"Fiber_Seeds": "Plant these in any season. Does not require watering. Harvest with scythe or sickle. Takes 7 days to grow.",
+}

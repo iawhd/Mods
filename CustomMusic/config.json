@@ -1,0 +1,9 @@
+{
+  "Convert": false,
+  "Debug": false,
+  "Presets": {
+    "jojaOfficeSoundscape": "Default"
+  },
+  "SoundVolume": 0.25,
+  "MusicVolume": 0.5
+}

@@ -1,0 +1,8 @@
+{
+  "RaisedBedsMayBreakWithAge": true,
+  "SprinklersEnabled": true,
+  "RecipesAlwaysAvailable": false,
+  "CanBePlacedInFarmHouse": true,
+  "CanBePlacedInBuildings": false,
+  "CanBePlacedInGreenHouse": true
+}

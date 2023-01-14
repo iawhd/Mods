@@ -1,0 +1,32 @@
+{
+  "ItemName": "Ostrich",
+  "Type": "Character",
+  "TextureWidth": 128,
+  "TextureHeight": 160,
+  "ManualVariations": [
+	{
+      "Id": 0,
+      "ChanceWeight": 0.1,
+	  "Name": "Black",
+	  "Keywords": [ "Elle's New Barn Black Ostrich" ]
+    },
+	{
+      "Id": 1,
+      "ChanceWeight": 0.1,
+	  "Name": "Blonde",
+	  "Keywords": [ "Elle's New Barn Blonde Ostrich" ]
+    },
+	{
+      "Id": 2,
+      "ChanceWeight": 0.1,
+      "Name": "Brown",
+	  "Keywords": [ "Elle's New Barn Brown Ostrich" ]
+    },
+    {
+      "Id": 3,
+      "ChanceWeight": 0.1,
+	  "Name": "Grey",
+	  "Keywords": [ "Elle's New Barn Grey Ostrich" ]
+    }
+	]
+}

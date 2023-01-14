@@ -1,0 +1,176 @@
+{
+  "ItemName": "Rabbit",
+  "Type": "Character",
+  "TextureWidth": 64,
+  "TextureHeight": 112,
+  "ManualVariations": [
+    {
+      "Id": 0,
+	  "ChanceWeight": 0.1,
+	  "Name": "BeltedBlack",
+	  "Keywords": [ "Elle's New Coop BeltedBlack Rabbit" ]
+    },
+	{
+      "Id": 1,
+	  "ChanceWeight": 0.1,
+	  "Name": "BeltedBlonde",
+      "Keywords": [ "Elle's New Coop BeltedBlonde Rabbit" ]
+    },
+	{
+      "Id": 2,
+      "ChanceWeight": 0.1,
+	  "Name": "BeltedBrown",
+	  "Keywords": [ "Elle's New Coop BeltedBrown Rabbit" ]
+    },
+	{
+      "Id": 3,
+      "ChanceWeight": 0.1,
+      "Name": "BeltedGrey",
+	  "Keywords": [ "Elle's New Coop BeltedGrey Rabbit" ]
+    },
+    {
+      "Id": 4,
+      "ChanceWeight": 0.1,
+	  "Name": "LopBeltedBlack",
+	  "Keywords": [ "Elle's New Coop LopBeltedBlack Rabbit" ]
+    },
+	{
+      "Id": 5,
+      "ChanceWeight": 0.1,
+      "Name": "LopBeltedBlonde",
+	  "Keywords": [ "Elle's New Coop LopBeltedBlonde Rabbit" ]
+    },
+    {
+      "Id": 6,
+      "ChanceWeight": 0.1,
+	  "Name": "LopBeltedBrown",
+	  "Keywords": [ "Elle's New Coop LopBeltedBrown Rabbit" ]
+    },
+	{
+      "Id": 7,
+      "ChanceWeight": 0.1,
+      "Name": "LopBeltedGrey",
+	  "Keywords": [ "Elle's New Coop LopBeltedGrey Rabbit" ]
+    },
+    {
+      "Id": 8,
+      "ChanceWeight": 0.1,
+	  "Name": "LopPointedBlack",
+	  "Keywords": [ "Elle's New Coop LopPointedBlack Rabbit" ]
+    },
+	{
+      "Id": 9,
+      "ChanceWeight": 0.1,
+      "Name": "LopPointedBlonde",
+	  "Keywords": [ "Elle's New Coop LopPointedBlonde Rabbit" ]
+    },
+    {
+      "Id": 10,
+      "ChanceWeight": 0.1,
+	  "Name": "LopPointedBrown",
+	  "Keywords": [ "Elle's New Coop LopPointedBrown Rabbit" ]
+    },
+	{
+      "Id": 11,
+      "ChanceWeight": 0.1,
+	  "Name": "LopPointedGrey",
+	  "Keywords": [ "Elle's New Coop LopPointedGrey Rabbit" ]
+    },
+	{
+      "Id": 12,
+      "ChanceWeight": 0.1,
+	  "Name": "LopSolidBlack",
+	  "Keywords": [ "Elle's New Coop LopSolidBlack Rabbit" ]
+    },
+	{
+      "Id": 13,
+      "ChanceWeight": 0.1,
+	  "Name": "LopSolidBlonde",
+	  "Keywords": [ "Elle's New Coop LopSolidBlonde Rabbit" ]
+    },
+	{
+      "Id": 14,
+      "ChanceWeight": 0.1,
+	  "Name": "LopSolidBrown",
+	  "Keywords": [ "Elle's New Coop LopSolidBrown Rabbit" ]
+    },
+	{
+      "Id": 15,
+      "ChanceWeight": 0.1,
+	  "Name": "LopSolidCream",
+	  "Keywords": [ "Elle's New Coop LopSolidCream Rabbit" ]
+    },
+	{
+      "Id": 16,
+      "ChanceWeight": 0.1,
+	  "Name": "LopSolidGrey",
+	  "Keywords": [ "Elle's New Coop LopSolidGrey Rabbit" ]
+    },
+	{
+      "Id": 17,
+      "ChanceWeight": 0.1,
+	  "Name": "LopSolidWhite",
+	  "Keywords": [ "Elle's New Coop LopSolidWhite Rabbit" ]
+    },
+	{
+      "Id": 18,
+      "ChanceWeight": 0.1,
+	  "Name": "PointedBlack",
+	  "Keywords": [ "Elle's New Coop PointedBlack Rabbit" ]
+    },
+	{
+      "Id": 19,
+      "ChanceWeight": 0.1,
+	  "Name": "PointedBlonde",
+	  "Keywords": [ "Elle's New Coop PointedBlonde Rabbit" ]
+    },
+	{
+      "Id": 20,
+      "ChanceWeight": 0.1,
+	  "Name": "PointedBrown",
+	  "Keywords": [ "Elle's New Coop PointedBrown Rabbit" ]
+    },
+	{
+      "Id": 21,
+      "ChanceWeight": 0.1,
+	  "Name": "PointedGrey",
+	  "Keywords": [ "Elle's New Coop PointedGrey Rabbit" ]
+    },
+	{
+      "Id": 22,
+      "ChanceWeight": 0.1,
+	  "Name": "SolidBlack",
+	  "Keywords": [ "Elle's New Coop SolidBlack Rabbit" ]
+    },
+	{
+      "Id": 23,
+      "ChanceWeight": 0.1,
+	  "Name": "SolidBlonde",
+	  "Keywords": [ "Elle's New Coop SolidBlonde Rabbit" ]
+    },
+	{
+      "Id": 24,
+      "ChanceWeight": 0.1,
+	  "Name": "SolidBrown",
+	  "Keywords": [ "Elle's New Coop SolidBrown Rabbit" ]
+    },
+	{
+      "Id": 25,
+      "ChanceWeight": 0.1,
+	  "Name": "SolidCream",
+	  "Keywords": [ "Elle's New Coop SolidCream Rabbit" ]
+    },
+	{
+      "Id": 26,
+      "ChanceWeight": 0.1,
+	  "Name": "SolidGrey",
+	  "Keywords": [ "Elle's New Coop SolidGrey Rabbit" ]
+    },
+	{
+      "Id": 27,
+      "ChanceWeight": 0.1,
+	  "Name": "SolidWhite",
+	  "Keywords": [ "Elle's New Coop SolidWhite Rabbit" ]
+    }
+	]
+}

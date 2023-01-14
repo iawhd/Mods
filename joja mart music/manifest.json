@@ -1,0 +1,12 @@
+{
+  "Name": "toontown elevator",
+  "Author": "Aubrianna Shields",
+  "Version": "1.0.0",
+  "Description": "replaces the the joja mart sound with toontown elevator theme but with a filter",
+  "UniqueID": "i.hate.joja.mart.aubrianna.shields",
+  "ContentPackFor": {
+    "UniqueID": "Platonymous.CustomMusic",
+    "MinimumVersion": "1.0.0"
+    
+  }
+}

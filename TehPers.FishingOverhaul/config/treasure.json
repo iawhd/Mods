@@ -1,0 +1,32 @@
+{
+    "MaxTreasureQuantity": 3,
+    "AllowDuplicateLoot": true,
+    "InvertChancesOnPerfectCatch": true,
+    "CatchSpeed": 1,
+    "DrainSpeed": 1,
+    "TreasureChances": {
+        "MagnetFactor": 0.15000000596046448,
+        "TreasureHunterFactor": 0.05000000074505806,
+        "PirateFactor": 1,
+        "BaseChance": 0.15000000596046448,
+        "StreakFactor": 0.009999999776482582,
+        "FishingLevelFactor": 0,
+        "DailyLuckFactor": 0.5,
+        "LuckLevelFactor": 0.004999999888241291,
+        "MinChance": 0,
+        "MaxChance": 0.5,
+        "LocationFactors": {
+        }
+    },
+    "AdditionalLootChances": {
+        "BaseChance": 0.5,
+        "StreakFactor": 0.10000000149011612,
+        "FishingLevelFactor": 0,
+        "DailyLuckFactor": 0.5,
+        "LuckLevelFactor": 0.004999999888241291,
+        "MinChance": 0,
+        "MaxChance": 0.800000011920929,
+        "LocationFactors": {
+        }
+    }
+}

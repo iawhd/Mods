@@ -1,0 +1,314 @@
+{
+  "ItemName": "Cat",
+  "Type": "Character",
+  "TextureWidth": 128,
+  "TextureHeight": 256,
+  "ManualVariations": [
+    {
+      "Id": 0,
+      "ChanceWeight": 0.3,
+	  "Name": "Calico",
+	  "Keywords": [ "Elle's Cats BlackCollar Calico" ]
+    },
+	{
+      "Id": 1,
+      "ChanceWeight": 0.3,
+	  "Name": "CalicoLight",
+	  "Keywords": [ "Elle's Cats BlackCollar CalicoLight" ]
+    },
+	{
+      "Id": 2,
+      "ChanceWeight": 0.3,
+	  "Name": "LPointedBlack",
+	  "Keywords": [ "Elle's Cats BlackCollar LPointedBlack" ]
+    },
+	{
+      "Id": 3,
+      "ChanceWeight": 0.3,
+      "Name": "LPointedBlonde",
+	  "Keywords": [ "Elle's Cats BlackCollar LPointedBlonde" ]
+    },
+    {
+      "Id": 4,
+      "ChanceWeight": 0.3,
+	  "Name": "LPointedBrown",
+	  "Keywords": [ "Elle's Cats BlackCollar LPointedBrown" ]
+    },
+	{
+      "Id": 5,
+      "ChanceWeight": 0.3,
+      "Name": "LPointedGrey",
+	  "Keywords": [ "Elle's Cats BlackCollar LPointedGrey" ]
+    },
+    {
+      "Id": 6,
+      "ChanceWeight": 0.3,
+	  "Name": "LSolidBlack",
+	  "Keywords": [ "Elle's Cats BlackCollar LSolidBlack" ]
+    },
+	{
+      "Id": 7,
+      "ChanceWeight": 0.3,
+      "Name": "LSolidBlonde",
+	  "Keywords": [ "Elle's Cats BlackCollar LSolidBlonde" ]
+    },
+    {
+      "Id": 8,
+      "ChanceWeight": 0.3,
+	  "Name": "LSolidBrown",
+	  "Keywords": [ "Elle's Cats BlackCollar LSolidBrown" ]
+    },
+	{
+      "Id": 9,
+      "ChanceWeight": 0.3,
+      "Name": "LSolidGrey",
+	  "Keywords": [ "Elle's Cats BlackCollar LSolidGrey" ]
+    },
+    {
+      "Id": 10,
+      "ChanceWeight": 0.3,
+	  "Name": "LSolidWhite",
+	  "Keywords": [ "Elle's Cats BlackCollar LSolidWhite" ]
+    },
+	{
+      "Id": 11,
+      "ChanceWeight": 0.3,
+	  "Name": "PointedBlack",
+	  "Keywords": [ "Elle's Cats BlackCollar PointedBlack" ]
+    },
+	{
+      "Id": 12,
+      "ChanceWeight": 0.3,
+	  "Name": "PointedBlonde",
+	  "Keywords": [ "Elle's Cats BlackCollar PointedBlonde" ]
+    },
+	{
+      "Id": 13,
+      "ChanceWeight": 0.3,
+	  "Name": "PointedBrown",
+	  "Keywords": [ "Elle's Cats BlackCollar PointedBrown" ]
+    },
+	{
+      "Id": 14,
+      "ChanceWeight": 0.3,
+	  "Name": "PointedGrey",
+	  "Keywords": [ "Elle's Cats BlackCollar PointedGrey" ]
+    },
+	{
+      "Id": 15,
+      "ChanceWeight": 0.3,
+	  "Name": "SocksBlack",
+	  "Keywords": [ "Elle's Cats BlackCollar SocksBlack" ]
+    },
+	{
+      "Id": 16,
+      "ChanceWeight": 0.3,
+	  "Name": "SocksBlonde",
+	  "Keywords": [ "Elle's Cats BlackCollar SocksBlonde" ]
+    },
+	{
+      "Id": 17,
+      "ChanceWeight": 0.3,
+	  "Name": "SocksBrown",
+	  "Keywords": [ "Elle's Cats BlackCollar SocksBrown" ]
+    },
+	{
+      "Id": 18,
+      "ChanceWeight": 0.3,
+	  "Name": "SocksGrey",
+	  "Keywords": [ "Elle's Cats BlackCollar SocksGrey" ]
+    },
+	{
+      "Id": 19,
+      "ChanceWeight": 0.3,
+	  "Name": "SolidBlack",
+	  "Keywords": [ "Elle's Cats BlackCollar SolidBlack" ]
+    },
+	{
+      "Id": 20,
+      "ChanceWeight": 0.3,
+	  "Name": "SolidBlonde",
+	  "Keywords": [ "Elle's Cats BlackCollar SolidBlonde" ]
+    },
+	{
+      "Id": 21,
+      "ChanceWeight": 0.3,
+	  "Name": "SolidBrown",
+	  "Keywords": [ "Elle's Cats BlackCollar SolidBrown" ]
+    },
+	{
+      "Id": 22,
+      "ChanceWeight": 0.3,
+	  "Name": "SolidGrey",
+	  "Keywords": [ "Elle's Cats BlackCollar SolidGrey" ]
+    },
+	{
+      "Id": 23,
+      "ChanceWeight": 0.3,
+	  "Name": "SolidWhite",
+	  "Keywords": [ "Elle's Cats BlackCollar SolidWhite" ]
+    },
+	{
+      "Id": 24,
+      "ChanceWeight": 0.3,
+	  "Name": "SpotBlackBrown",
+	  "Keywords": [ "Elle's Cats BlackCollar SpotBlackBrown" ]
+    },
+	{
+      "Id": 25,
+      "ChanceWeight": 0.3,
+	  "Name": "SpotBlackWhite",
+	  "Keywords": [ "Elle's Cats BlackCollar SpotBlackWhite" ]
+    },
+	{
+      "Id": 26,
+      "ChanceWeight": 0.3,
+	  "Name": "SpotBlondeBrown",
+	  "Keywords": [ "Elle's Cats BlackCollar SpotBlondeBrown" ]
+    },
+	{
+      "Id": 27,
+      "ChanceWeight": 0.3,
+	  "Name": "SpotBlondeGrey",
+	  "Keywords": [ "Elle's Cats BlackCollar SpotBlondeGrey" ]
+    },
+	{
+      "Id": 28,
+      "ChanceWeight": 0.3,
+	  "Name": "SpotBrownBlack",
+	  "Keywords": [ "Elle's Cats BlackCollar SpotBrownBlack" ]
+    },
+	{
+      "Id": 29,
+      "ChanceWeight": 0.3,
+	  "Name": "SpotBrownWhite",
+	  "Keywords": [ "Elle's Cats BlackCollar SpotBrownWhite" ]
+    },
+	{
+      "Id": 30,
+      "ChanceWeight": 0.3,
+	  "Name": "SpotGreyBlack",
+	  "Keywords": [ "Elle's Cats BlackCollar SpotGreyBlack" ]
+    },
+	{
+      "Id": 31,
+      "ChanceWeight": 0.3,
+	  "Name": "SpotGreyWhite",
+	  "Keywords": [ "Elle's Cats BlackCollar SpotGreyWhite" ]
+    },
+	{
+      "Id": 32,
+      "ChanceWeight": 0.3,
+	  "Name": "SpotWhiteBlack",
+	  "Keywords": [ "Elle's Cats BlackCollar SpotWhiteBlack" ]
+    },
+	{
+      "Id": 33,
+      "ChanceWeight": 0.3,
+	  "Name": "SpotWhiteBlonde",
+	  "Keywords": [ "Elle's Cats BlackCollar SpotWhiteBlonde" ]
+    },
+	{
+      "Id": 34,
+      "ChanceWeight": 0.3,
+	  "Name": "SpotWhiteBrown",
+	  "Keywords": [ "Elle's Cats BlackCollar SpotWhiteBrown" ]
+    },
+	{
+      "Id": 35,
+      "ChanceWeight": 0.3,
+	  "Name": "SpotWhiteGrey",
+	  "Keywords": [ "Elle's Cats BlackCollar SpotWhiteGrey" ]
+    },
+	{
+      "Id": 36,
+      "ChanceWeight": 0.3,
+	  "Name": "StripedBlack",
+	  "Keywords": [ "Elle's Cats BlackCollar StripedBlack" ]
+    },
+	{
+      "Id": 37,
+      "ChanceWeight": 0.3,
+	  "Name": "StripedBlonde",
+	  "Keywords": [ "Elle's Cats BlackCollar StripedBlonde" ]
+    },
+	{
+      "Id": 38,
+      "ChanceWeight": 0.3,
+	  "Name": "StripedBrown",
+	  "Keywords": [ "Elle's Cats BlackCollar StripedBrown" ]
+    },
+	{
+      "Id": 39,
+      "ChanceWeight": 0.3,
+	  "Name": "StripedGrey",
+	  "Keywords": [ "Elle's Cats BlackCollar StripedGrey" ]
+    },
+	{
+      "Id": 40,
+      "ChanceWeight": 0.3,
+	  "Name": "StripedSocksBlack",
+	  "Keywords": [ "Elle's Cats BlackCollar StripedSocksBlack" ]
+    },
+	{
+      "Id": 41,
+      "ChanceWeight": 0.3,
+	  "Name": "StripedSocksBlonde",
+	  "Keywords": [ "Elle's Cats BlackCollar StripedSocksBlonde" ]
+    },
+	{
+      "Id": 42,
+      "ChanceWeight": 0.3,
+	  "Name": "StripedSocksBrown",
+	  "Keywords": [ "Elle's Cats BlackCollar StripedSocksBrown" ]
+    },
+	{
+      "Id": 43,
+      "ChanceWeight": 0.3,
+	  "Name": "StripedSocksGrey",
+	  "Keywords": [ "Elle's Cats BlackCollar StripedSocksGrey" ]
+    },
+	{
+      "Id": 44,
+      "ChanceWeight": 0.3,
+	  "Name": "StripedWhite",
+	  "Keywords": [ "Elle's Cats BlackCollar StripedWhite" ]
+    },
+	{
+      "Id": 45,
+      "ChanceWeight": 0.3,
+	  "Name": "Tortie",
+	  "Keywords": [ "Elle's Cats BlackCollar Tortie" ]
+    },
+	{
+      "Id": 46,
+      "ChanceWeight": 0.3,
+	  "Name": "TuxedoBlack",
+	  "Keywords": [ "Elle's Cats BlackCollar TuxedoBlack" ]
+    },
+	{
+      "Id": 47,
+      "ChanceWeight": 0.3,
+	  "Name": "TuxedoBlonde",
+	  "Keywords": [ "Elle's Cats BlackCollar TuxedoBlonde" ]
+    },
+	{
+      "Id": 48,
+      "ChanceWeight": 0.3,
+	  "Name": "TuxedoBrown",
+	  "Keywords": [ "Elle's Cats BlackCollar TuxedoBrown" ]
+    },
+	{
+      "Id": 49,
+      "ChanceWeight": 0.3,
+	  "Name": "TuxedoGrey",
+	  "Keywords": [ "Elle's Cats BlackCollar TuxedoGrey" ]
+    },
+	{
+      "Id": 50,
+      "ChanceWeight": 0.3,
+	  "Name": "Vanilla",
+	  "Keywords": [ "Elle's Cats BlackCollar Vanilla" ]
+    }
+  ]
+}

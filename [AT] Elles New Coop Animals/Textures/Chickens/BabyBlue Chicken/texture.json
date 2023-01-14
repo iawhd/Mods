@@ -1,0 +1,62 @@
+{
+  "ItemName": "BabyBlue Chicken",
+  "Type": "Character",
+  "TextureWidth": 64,
+  "TextureHeight": 112,
+  "ManualVariations": [
+  {
+      "Id": 0,
+	  "ChanceWeight": 0.1,
+	  "Name": "Blue",
+	  "Keywords": [ "Elle's New Coop Blue Chicken" ]
+    },
+	{
+      "Id": 1,
+	  "ChanceWeight": 0,
+	  "Name": "Black",
+	  "Keywords": [ "Elle's New Coop Black Chicken" ]
+    },
+	{
+      "Id": 2,
+      "ChanceWeight": 0,
+	  "Name": "Blonde",
+	  "Keywords": [ "Elle's New Coop Blonde Chicken" ]
+    },
+	{
+      "Id": 3,
+      "ChanceWeight": 0,
+      "Name": "Brown",
+	  "Keywords": [ "Elle's New Coop Brown Chicken" ]
+    },
+    {
+      "Id": 4,
+      "ChanceWeight": 0,
+	  "Name": "Cream",
+	  "Keywords": [ "Elle's New Coop Cream Chicken" ]
+    },
+	{
+      "Id": 5,
+      "ChanceWeight": 0,
+      "Name": "Grey",
+	  "Keywords": [ "Elle's New Coop Grey" ]
+    },
+    {
+      "Id": 6,
+      "ChanceWeight": 0.1,
+	  "Name": "BluePurple",
+	  "Keywords": [ "Elle's New Coop BluePurple Chicken" ]
+    },
+	{
+      "Id": 7,
+      "ChanceWeight": 0,
+      "Name": "White",
+	  "Keywords": [ "Elle's New Coop White Chicken" ]
+    },
+    {
+      "Id": 8,
+      "ChanceWeight": 0.1,
+	  "Name": "Purple",
+	  "Keywords": [ "Elle's New Coop Purple Chicken" ]
+    },
+	]
+}

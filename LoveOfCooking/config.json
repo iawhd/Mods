@@ -1,0 +1,17 @@
+{
+  "AddCookingMenu": true,
+  "AddCookingSkillAndRecipes": true,
+  "AddCookingToolProgression": true,
+  "AddNewCropsAndStuff": true,
+  "AddRecipeRebalancing": true,
+  "AddBuffReassigning": true,
+  "PlayCookingAnimation": true,
+  "HideFoodBuffsUntilEaten": false,
+  "FoodHealingTakesTime": true,
+  "FoodCanBurn": false,
+  "ShowFoodRegenBar": true,
+  "RememberLastSearchFilter": true,
+  "DefaultSearchFilter": "Alphabetical",
+  "DebugMode": false,
+  "ResizeKoreanFonts": true
+}

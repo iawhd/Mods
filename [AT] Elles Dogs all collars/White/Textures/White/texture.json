@@ -1,0 +1,614 @@
+{
+  "ItemName": "Dog",
+  "Type": "Character",
+  "TextureWidth": 128,
+  "TextureHeight": 288,
+  "ManualVariations": [
+    {
+      "Id": 0,
+      "ChanceWeight": 0.1,
+	  "Name": "BulldogBlack",
+	  "Keywords": [ "Elle's Dogs WhiteCollar BulldogBlack" ]
+    },
+	{
+      "Id": 1,
+      "ChanceWeight": 0.1,
+	  "Name": "BulldogBlonde",
+	  "Keywords": [ "Elle's Dogs WhiteCollar BulldogBlonde" ]
+    },
+	{
+      "Id": 2,
+      "ChanceWeight": 0.1,
+	  "Name": "BulldogBrown",
+	  "Keywords": [ "Elle's Dogs WhiteCollar BulldogBrown" ]
+    },
+	{
+      "Id": 3,
+      "ChanceWeight": 0.1,
+      "Name": "BulldogGrey",
+	  "Keywords": [ "Elle's Dogs WhiteCollar BulldogGrey" ]
+    },
+    {
+      "Id": 4,
+      "ChanceWeight": 0.1,
+	  "Name": "BulldogWhite",
+	  "Keywords": [ "Elle's Dogs WhiteCollar BulldogWhite" ]
+    },
+	{
+      "Id": 5,
+      "ChanceWeight": 0.1,
+      "Name": "EskimoBlack",
+	  "Keywords": [ "Elle's Dogs WhiteCollar EskimoBlack" ]
+    },
+    {
+      "Id": 6,
+      "ChanceWeight": 0.1,
+	  "Name": "EskimoBlonde",
+	  "Keywords": [ "Elle's Dogs WhiteCollar EskimoBlonde" ]
+    },
+	{
+      "Id": 7,
+      "ChanceWeight": 0.1,
+      "Name": "EskimoBrown",
+	  "Keywords": [ "Elle's Dogs WhiteCollar EskimoBrown" ]
+    },
+    {
+      "Id": 8,
+      "ChanceWeight": 0.1,
+	  "Name": "EskimoGrey",
+	  "Keywords": [ "Elle's Dogs WhiteCollar EskimoGrey" ]
+    },
+	{
+      "Id": 9,
+      "ChanceWeight": 0.1,
+      "Name": "EskimoWhite",
+	  "Keywords": [ "Elle's Dogs WhiteCollar EskimoWhite" ]
+    },
+    {
+      "Id": 10,
+      "ChanceWeight": 0.1,
+	  "Name": "NewfieBlack",
+	  "Keywords": [ "Elle's Dogs WhiteCollar NewfieBlack" ]
+    },
+	{
+      "Id": 11,
+      "ChanceWeight": 0.1,
+	  "Name": "NewfieBlonde",
+	  "Keywords": [ "Elle's Dogs WhiteCollar NewfieBlonde" ]
+    },
+	{
+      "Id": 12,
+      "ChanceWeight": 0.1,
+	  "Name": "NewfieBrown",
+	  "Keywords": [ "Elle's Dogs WhiteCollar NewfieBrown" ]
+    },
+	{
+      "Id": 13,
+      "ChanceWeight": 0.1,
+	  "Name": "NewfieGrey",
+	  "Keywords": [ "Elle's Dogs WhiteCollar NewfieGrey" ]
+    },
+	{
+      "Id": 14,
+      "ChanceWeight": 0.1,
+	  "Name": "NewfieWhite",
+	  "Keywords": [ "Elle's Dogs WhiteCollar NewfieWhite" ]
+    },
+	{
+      "Id": 15,
+      "ChanceWeight": 0.1,
+	  "Name": "Bernese",
+	  "Keywords": [ "Elle's Dogs WhiteCollar Bernese" ]
+    },
+	{
+      "Id": 16,
+      "ChanceWeight": 0.1,
+	  "Name": "CollieBlack",
+	  "Keywords": [ "Elle's Dogs WhiteCollar CollieBlack" ]
+    },
+	{
+      "Id": 17,
+      "ChanceWeight": 0.1,
+	  "Name": "CollieBlonde",
+	  "Keywords": [ "Elle's Dogs WhiteCollar CollieBlonde" ]
+    },
+	{
+      "Id": 18,
+      "ChanceWeight": 0.1,
+	  "Name": "CollieBrown",
+	  "Keywords": [ "Elle's Dogs WhiteCollar CollieBrown" ]
+    },
+	{
+      "Id": 19,
+      "ChanceWeight": 0.1,
+	  "Name": "CollieGrey",
+	  "Keywords": [ "Elle's Dogs WhiteCollar CollieGrey" ]
+    },
+	{
+      "Id": 20,
+      "ChanceWeight": 0.1,
+	  "Name": "GermanBlonde",
+	  "Keywords": [ "Elle's Dogs WhiteCollar GermanBlonde" ]
+    },
+	{
+      "Id": 21,
+      "ChanceWeight": 0.1,
+	  "Name": "GermanBrown",
+	  "Keywords": [ "Elle's Dogs WhiteCollar GermanBrown" ]
+    },
+	{
+      "Id": 22,
+      "ChanceWeight": 0.1,
+	  "Name": "GermanWhite",
+	  "Keywords": [ "Elle's Dogs WhiteCollar GermanWhite" ]
+    },
+	{
+      "Id": 23,
+      "ChanceWeight": 0.1,
+	  "Name": "RetrieverBlack",
+	  "Keywords": [ "Elle's Dogs WhiteCollar RetrieverBlack" ]
+    },
+	{
+      "Id": 24,
+      "ChanceWeight": 0.1,
+	  "Name": "RetrieverBlonde",
+	  "Keywords": [ "Elle's Dogs WhiteCollar RetrieverBlonde" ]
+    },
+	{
+      "Id": 25,
+      "ChanceWeight": 0.1,
+	  "Name": "RetrieverBrown",
+	  "Keywords": [ "Elle's Dogs WhiteCollar RetrieverBrown" ]
+    },
+	{
+      "Id": 26,
+      "ChanceWeight": 0.1,
+	  "Name": "RetrieverGrey",
+	  "Keywords": [ "Elle's Dogs WhiteCollar RetrieverGrey" ]
+    },
+	{
+      "Id": 27,
+      "ChanceWeight": 0.1,
+	  "Name": "RetrieverWhite",
+	  "Keywords": [ "Elle's Dogs WhiteCollar RetrieverWhite" ]
+    },
+	{
+      "Id": 28,
+      "ChanceWeight": 0.1,
+	  "Name": "ShepBlack",
+	  "Keywords": [ "Elle's Dogs WhiteCollar ShepBlack" ]
+    },
+	{
+      "Id": 29,
+      "ChanceWeight": 0.1,
+	  "Name": "ShepBlonde",
+	  "Keywords": [ "Elle's Dogs WhiteCollar ShepBlonde" ]
+    },
+	{
+      "Id": 30,
+      "ChanceWeight": 0.1,
+	  "Name": "ShepBrown",
+	  "Keywords": [ "Elle's Dogs WhiteCollar ShepBrown" ]
+    },
+	{
+      "Id": 31,
+      "ChanceWeight": 0.1,
+	  "Name": "ShepGrey",
+	  "Keywords": [ "Elle's Dogs WhiteCollar ShepGrey" ]
+    },
+	{
+      "Id": 32,
+      "ChanceWeight": 0.1,
+	  "Name": "ShepWhite",
+	  "Keywords": [ "Elle's Dogs WhiteCollar ShepWhite" ]
+    },
+	{
+      "Id": 33,
+      "ChanceWeight": 0.1,
+	  "Name": "PitbullBlack",
+	  "Keywords": [ "Elle's Dogs WhiteCollar PitbullBlack" ]
+    },
+	{
+      "Id": 34,
+      "ChanceWeight": 0.1,
+	  "Name": "PitbullBlonde",
+	  "Keywords": [ "Elle's Dogs WhiteCollar PitbullBlonde" ]
+    },
+	{
+      "Id": 35,
+      "ChanceWeight": 0.1,
+	  "Name": "PitbullBrown",
+	  "Keywords": [ "Elle's Dogs WhiteCollar PitbullBrown" ]
+    },
+	{
+      "Id": 36,
+      "ChanceWeight": 0.1,
+	  "Name": "PitbullGrey",
+	  "Keywords": [ "Elle's Dogs WhiteCollar PitbullGrey" ]
+    },
+	{
+      "Id": 37,
+      "ChanceWeight": 0.1,
+	  "Name": "PitbullWhite",
+	  "Keywords": [ "Elle's Dogs WhiteCollar PitbullWhite" ]
+    },
+	{
+      "Id": 38,
+      "ChanceWeight": 0.1,
+	  "Name": "ShibaBlack",
+	  "Keywords": [ "Elle's Dogs WhiteCollar ShibaBlack" ]
+    },
+	{
+      "Id": 39,
+      "ChanceWeight": 0.1,
+	  "Name": "ShibaBlonde",
+	  "Keywords": [ "Elle's Dogs WhiteCollar ShibaBlonde" ]
+    },
+	{
+      "Id": 40,
+      "ChanceWeight": 0.1,
+	  "Name": "ShibaBrown",
+	  "Keywords": [ "Elle's Dogs WhiteCollar ShibaBrown" ]
+    },
+	{
+      "Id": 41,
+      "ChanceWeight": 0.1,
+	  "Name": "ShibaGrey",
+	  "Keywords": [ "Elle's Dogs WhiteCollar ShibaGrey" ]
+    },
+	{
+      "Id": 42,
+      "ChanceWeight": 0.1,
+	  "Name": "ShibaWhite",
+	  "Keywords": [ "Elle's Dogs WhiteCollar ShibaWhite" ]
+    },
+	{
+      "Id": 43,
+      "ChanceWeight": 0.1,
+	  "Name": "BostonBlack",
+	  "Keywords": [ "Elle's Dogs WhiteCollar BostonBlack" ]
+    },
+	{
+      "Id": 44,
+      "ChanceWeight": 0.1,
+	  "Name": "BostonBlonde",
+	  "Keywords": [ "Elle's Dogs WhiteCollar BostonBlonde" ]
+    },
+	{
+      "Id": 45,
+      "ChanceWeight": 0.1,
+	  "Name": "BostonBrown",
+	  "Keywords": [ "Elle's Dogs WhiteCollar BostonBrown" ]
+    },
+	{
+      "Id": 46,
+      "ChanceWeight": 0.1,
+	  "Name": "BostonGrey",
+	  "Keywords": [ "Elle's Dogs WhiteCollar BostonGrey" ]
+    },
+	{
+      "Id": 47,
+      "ChanceWeight": 0.1,
+	  "Name": "BostonWhite",
+	  "Keywords": [ "Elle's Dogs WhiteCollar BostonWhite" ]
+    },
+	{
+      "Id": 48,
+      "ChanceWeight": 0.1,
+	  "Name": "BoxerBlack",
+	  "Keywords": [ "Elle's Dogs WhiteCollar BoxerBlack" ]
+    },
+	{
+      "Id": 49,
+      "ChanceWeight": 0.1,
+	  "Name": "BoxerBlonde",
+	  "Keywords": [ "Elle's Dogs WhiteCollar BoxerBlonde" ]
+    },
+	{
+      "Id": 50,
+      "ChanceWeight": 0.1,
+	  "Name": "BoxerBrown",
+	  "Keywords": [ "Elle's Dogs WhiteCollar BoxerBrown" ]
+    },
+	{
+      "Id": 51,
+      "ChanceWeight": 0.1,
+	  "Name": "BoxerGrey",
+	  "Keywords": [ "Elle's Dogs WhiteCollar BoxerGrey" ]
+    },
+	{
+      "Id": 52,
+      "ChanceWeight": 0.1,
+	  "Name": "BoxerWhite",
+	  "Keywords": [ "Elle's Dogs WhiteCollar BoxerWhite" ]
+    },
+	{
+      "Id": 53,
+      "ChanceWeight": 0.1,
+	  "Name": "BullyBrindle",
+	  "Keywords": [ "Elle's Dogs WhiteCollar BullyBrindle" ]
+    },
+	{
+      "Id": 54,
+      "ChanceWeight": 0.1,
+      "Name": "BullySBlack",
+	  "Keywords": [ "Elle's Dogs WhiteCollar BullySBlack" ]
+    },
+    {
+      "Id": 55,
+      "ChanceWeight": 0.1,
+	  "Name": "BullySBlonde",
+	  "Keywords": [ "Elle's Dogs WhiteCollar BullySBlonde" ]
+    },
+	{
+      "Id": 56,
+      "ChanceWeight": 0.1,
+	  "Name": "BullySBrown",
+	  "Keywords": [ "Elle's Dogs WhiteCollar BullySBrown" ]
+    },
+	{
+      "Id": 57,
+      "ChanceWeight": 0.1,
+      "Name": "BullySGrey",
+	  "Keywords": [ "Elle's Dogs WhiteCollar BullySGrey" ]
+    },
+	{
+      "Id": 58,
+      "ChanceWeight": 0.1,
+      "Name": "BullySWhite",
+	  "Keywords": [ "Elle's Dogs WhiteCollar BullySWhite" ]
+    },
+    {
+      "Id": 59,
+      "ChanceWeight": 0.1,
+	  "Name": "BullyWBlack",
+	  "Keywords": [ "Elle's Dogs WhiteCollar BullyWBlack" ]
+    },
+	{
+      "Id": 60,
+      "ChanceWeight": 0.1,
+      "Name": "BullyWBlonde",
+	  "Keywords": [ "Elle's Dogs WhiteCollar BullyWBlonde" ]
+    },
+    {
+      "Id": 61,
+      "ChanceWeight": 0.1,
+	  "Name": "BullyWBrown",
+	  "Keywords": [ "Elle's Dogs WhiteCollar BullyWBrown" ]
+    },
+	{
+      "Id": 62,
+      "ChanceWeight": 0.1,
+	  "Name": "BullyWGrey",
+	  "Keywords": [ "Elle's Dogs WhiteCollar BullyWGrey" ]
+    },
+	{
+      "Id": 63,
+      "ChanceWeight": 0.1,
+	  "Name": "DalmationBlack",
+	  "Keywords": [ "Elle's Dogs WhiteCollar DalmationBlack" ]
+    },
+	{
+      "Id": 64,
+      "ChanceWeight": 0.1,
+	  "Name": "DalmationBlonde",
+	  "Keywords": [ "Elle's Dogs WhiteCollar DalmationBlonde" ]
+    },
+	{
+      "Id": 65,
+      "ChanceWeight": 0.1,
+	  "Name": "DalmationBrown",
+	  "Keywords": [ "Elle's Dogs WhiteCollar DalmationBrown" ]
+    },
+	{
+      "Id": 66,
+      "ChanceWeight": 0.1,
+	  "Name": "DalmationGrey",
+	  "Keywords": [ "Elle's Dogs WhiteCollar DalmationGrey" ]
+    },
+	{
+      "Id": 67,
+      "ChanceWeight": 0.1,
+	  "Name": "Foxhound",
+	  "Keywords": [ "Elle's Dogs WhiteCollar Foxhound" ]
+    },
+	{
+      "Id": 68,
+      "ChanceWeight": 0.1,
+	  "Name": "HuskyBlack",
+	  "Keywords": [ "Elle's Dogs WhiteCollar HuskyBlack" ]
+    },
+	{
+      "Id": 69,
+      "ChanceWeight": 0.1,
+	  "Name": "HuskyBlonde",
+	  "Keywords": [ "Elle's Dogs WhiteCollar HuskyBlonde" ]
+    },
+	{
+      "Id": 70,
+      "ChanceWeight": 0.1,
+	  "Name": "HuskyBrown",
+	  "Keywords": [ "Elle's Dogs WhiteCollar HuskyBrown" ]
+    },
+	{
+      "Id": 71,
+      "ChanceWeight": 0.1,
+	  "Name": "HuskyGrey",
+	  "Keywords": [ "Elle's Dogs WhiteCollar HuskyGrey" ]
+    },
+	{
+      "Id": 72,
+      "ChanceWeight": 0.1,
+	  "Name": "LabBlack",
+	  "Keywords": [ "Elle's Dogs WhiteCollar LabBlack" ]
+    },
+	{
+      "Id": 73,
+      "ChanceWeight": 0.1,
+	  "Name": "LabBlonde",
+	  "Keywords": [ "Elle's Dogs WhiteCollar LabBlonde" ]
+    },
+	{
+      "Id": 74,
+      "ChanceWeight": 0.1,
+	  "Name": "LabBrown",
+	  "Keywords": [ "Elle's Dogs WhiteCollar LabBrown" ]
+    },
+	{
+      "Id": 75,
+      "ChanceWeight": 0.1,
+	  "Name": "LabGrey",
+	  "Keywords": [ "Elle's Dogs WhiteCollar LabGrey" ]
+    },
+	{
+      "Id": 76,
+      "ChanceWeight": 0.1,
+	  "Name": "LabWhite",
+	  "Keywords": [ "Elle's Dogs WhiteCollar LabWhite" ]
+    },
+	{
+      "Id": 77,
+      "ChanceWeight": 0.1,
+	  "Name": "Rottweiler",
+	  "Keywords": [ "Elle's Dogs WhiteCollar Rottweiler" ]
+    },
+	{
+      "Id": 78,
+      "ChanceWeight": 0.1,
+	  "Name": "TerrierBlack",
+	  "Keywords": [ "Elle's Dogs WhiteCollar TerrierBlack" ]
+    },
+	{
+      "Id": 79,
+      "ChanceWeight": 0.1,
+	  "Name": "TerrierBlonde",
+	  "Keywords": [ "Elle's Dogs WhiteCollar TerrierBlonde" ]
+    },
+	{
+      "Id": 80,
+      "ChanceWeight": 0.1,
+	  "Name": "TerrierBrown",
+	  "Keywords": [ "Elle's Dogs WhiteCollar TerrierBrown" ]
+    },
+	{
+      "Id": 81,
+      "ChanceWeight": 0.1,
+	  "Name": "TerrierGrey",
+	  "Keywords": [ "Elle's Dogs WhiteCollar TerrierGrey" ]
+    },
+	{
+      "Id": 82,
+      "ChanceWeight": 0.1,
+	  "Name": "TerrierWhite",
+	  "Keywords": [ "Elle's Dogs WhiteCollar TerrierWhite" ]
+    },
+	{
+      "Id": 83,
+      "ChanceWeight": 0.1,
+	  "Name": "Vanilla",
+	  "Keywords": [ "Elle's Dogs WhiteCollar Vanilla" ]
+    },
+	{
+      "Id": 84,
+      "ChanceWeight": 0.1,
+	  "Name": "CorgiBlack",
+	  "Keywords": [ "Elle's Dogs WhiteCollar CorgiBlack" ]
+    },
+	{
+      "Id": 85,
+      "ChanceWeight": 0.1,
+	  "Name": "CorgiBlonde",
+	  "Keywords": [ "Elle's Dogs WhiteCollar CorgiBlonde" ]
+    },
+	{
+      "Id": 86,
+      "ChanceWeight": 0.1,
+	  "Name": "CorgiBrown",
+	  "Keywords": [ "Elle's Dogs WhiteCollar CorgiBrown" ]
+    },
+	{
+      "Id": 87,
+      "ChanceWeight": 0.1,
+	  "Name": "CorgiGrey",
+	  "Keywords": [ "Elle's Dogs WhiteCollar CorgiGrey" ]
+    },
+	{
+      "Id": 88,
+      "ChanceWeight": 0.1,
+	  "Name": "CorgiTricolor",
+	  "Keywords": [ "Elle's Dogs WhiteCollar CorgiTricolor" ]
+    },
+	{
+      "Id": 89,
+      "ChanceWeight": 0.1,
+	  "Name": "CorgiWhite",
+	  "Keywords": [ "Elle's Dogs WhiteCollar CorgiWhite" ]
+    },
+	{
+      "Id": 90,
+      "ChanceWeight": 0.1,
+	  "Name": "DachsBlack",
+	  "Keywords": [ "Elle's Dogs WhiteCollar DachsBlack" ]
+    },
+	{
+      "Id": 91,
+      "ChanceWeight": 0.1,
+	  "Name": "DachsBlonde",
+	  "Keywords": [ "Elle's Dogs WhiteCollar DachsBlonde" ]
+    },
+	{
+      "Id": 92,
+      "ChanceWeight": 0.1,
+	  "Name": "DachsBrown",
+	  "Keywords": [ "Elle's Dogs WhiteCollar DachsBrown" ]
+    },
+	{
+      "Id": 93,
+      "ChanceWeight": 0.1,
+	  "Name": "DachsGrey",
+	  "Keywords": [ "Elle's Dogs WhiteCollar DachsGrey" ]
+    },
+	{
+      "Id": 94,
+      "ChanceWeight": 0.1,
+	  "Name": "DachsWhite",
+	  "Keywords": [ "Elle's Dogs WhiteCollar DachsWhite" ]
+    },
+	{
+      "Id": 95,
+      "ChanceWeight": 0.1,
+	  "Name": "FrenchBlack",
+	  "Keywords": [ "Elle's Dogs WhiteCollar FrenchBlack" ]
+    },
+	{
+      "Id": 96,
+      "ChanceWeight": 0.1,
+	  "Name": "FrenchBlonde",
+	  "Keywords": [ "Elle's Dogs WhiteCollar FrenchBlonde" ]
+    },
+	{
+      "Id": 97,
+      "ChanceWeight": 0.1,
+	  "Name": "FrenchBrown",
+	  "Keywords": [ "Elle's Dogs WhiteCollar FrenchBrown" ]
+    },
+	{
+      "Id": 98,
+      "ChanceWeight": 0.1,
+	  "Name": "FrenchBW",
+	  "Keywords": [ "Elle's Dogs WhiteCollar FrenchBW" ]
+    },
+	{
+      "Id": 99,
+      "ChanceWeight": 0.1,
+	  "Name": "FrenchGrey",
+	  "Keywords": [ "Elle's Dogs WhiteCollar FrenchGrey" ]
+    },
+	{
+      "Id": 100,
+      "ChanceWeight": 0.1,
+	  "Name": "FrenchWhite",
+	  "Keywords": [ "Elle's Dogs WhiteCollar FrenchWhite" ]
+    }
+  ]
+}

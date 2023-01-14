@@ -1,0 +1,92 @@
+{
+  "ItemName": "Goat",
+  "Type": "Character",
+  "TextureWidth": 128,
+  "TextureHeight": 160,
+  "ManualVariations": [
+	{
+      "Id": 0,
+      "ChanceWeight": 0.1,
+	  "Name": "BeltedBlack",
+	  "Keywords": [ "Elle's New Barn BeltedBlack Goat" ]
+    },
+	{
+      "Id": 1,
+      "ChanceWeight": 0.1,
+	  "Name": "BeltedBlonde",
+	  "Keywords": [ "Elle's New Barn BeltedBlonde Goat" ]
+    },
+	{
+      "Id": 2,
+      "ChanceWeight": 0.1,
+      "Name": "BeltedBrown",
+	  "Keywords": [ "Elle's New Barn BeltedBrown Goat" ]
+    },
+    {
+      "Id": 3,
+      "ChanceWeight": 0.1,
+	  "Name": "BeltedGrey",
+	  "Keywords": [ "Elle's New Barn BeltedGrey Goat" ]
+    },
+	{
+      "Id": 4,
+      "ChanceWeight": 0.1,
+      "Name": "PointedBlack",
+	  "Keywords": [ "Elle's New Barn PointedBlack Goat" ]
+    },
+    {
+      "Id": 5,
+      "ChanceWeight": 0.1,
+	  "Name": "PointedBlonde",
+	  "Keywords": [ "Elle's New Barn PointedBlonde Goat" ]
+    },
+	{
+      "Id": 6,
+      "ChanceWeight": 0.1,
+      "Name": "PointedBrown",
+	  "Keywords": [ "Elle's New Barn PointedBrown Goat" ]
+    },
+    {
+      "Id": 7,
+      "ChanceWeight": 0.1,
+	  "Name": "PointedGrey",
+	  "Keywords": [ "Elle's New Barn PointedGrey Goat" ]
+    },
+	{
+      "Id": 8,
+      "ChanceWeight": 0.1,
+      "Name": "SolidBlack",
+	  "Keywords": [ "Elle's New Barn SolidBlack Goat" ]
+    },
+    {
+      "Id": 9,
+      "ChanceWeight": 0.1,
+	  "Name": "SolidBlonde",
+	  "Keywords": [ "Elle's New Barn SolidBlonde Goat" ]
+    },
+	{
+      "Id": 10,
+      "ChanceWeight": 0.1,
+	  "Name": "SolidBrown",
+	  "Keywords": [ "Elle's New Barn SolidBrown Goat" ]
+    },
+	{
+      "Id": 11,
+      "ChanceWeight": 0.1,
+	  "Name": "SolidCream",
+	  "Keywords": [ "Elle's New Barn SolidCream Goat" ]
+    },
+	{
+      "Id": 12,
+      "ChanceWeight": 0.1,
+	  "Name": "SolidGrey",
+	  "Keywords": [ "Elle's New Barn SolidGrey Goat" ]
+    },
+	{
+      "Id": 13,
+      "ChanceWeight": 0.1,
+	  "Name": "SolidWhite",
+	  "Keywords": [ "Elle's New Barn SolidWhite Goat" ]
+    }
+	]
+}

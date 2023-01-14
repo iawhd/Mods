@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Elle's Dogs for AT",
+  "Author": "Elle/Junimods",
+  "Version": "1.0.0",
+  "Description": "An AT content pack for your dog!",
+  "UniqueID": "Elles.AT.Dogs.VanillaCollar",
+  "UpdateKeys": [ "Nexus:10039@Dogs" ],
+  "Dependencies": [],
+  "ContentPackFor": {
+   "UniqueID": "PeacefulEnd.AlternativeTextures",
+   "MinimumVersion": "5.0.0-beta.14"
+  }
+}

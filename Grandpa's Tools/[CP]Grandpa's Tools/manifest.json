@@ -1,0 +1,26 @@
+{
+   "Name": "Grandpas Tools",
+   "Author": "Gweniaczek",
+   "Version": "1.2.0",
+   "Description": "Retexture of tools & fertilizers ",
+   "UniqueID": "Gweniaczek.Grandpas_Tools",
+   "UpdateKeys": ["Nexus:8835"],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher",
+		"MinimumVersion": "1.19.0"
+   },
+		"Dependencies": [
+		{
+			"UniqueID": "Stashek.FishingRodRecolor",
+			"IsRequired": true,
+		},
+		{
+			"UniqueID": "Maythorn.VintageInterfaceMultipack",
+			"IsRequired": false,
+		},
+		{
+			"UniqueID": "stokastic.PrismaticTools",
+			"IsRequired": false,
+		},
+	],
+}

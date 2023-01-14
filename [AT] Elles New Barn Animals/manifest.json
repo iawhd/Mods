@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Elle's New Barn Animals for AT",
+   "Author": "Elle/Junimods",
+   "Version": "1.0.0",
+   "Description": "An AT content pack for your Barn animals!",
+   "UniqueID": "Elles.AT.NewBarnAnimals",
+  "UpdateKeys": ["Nexus:10039@New Barn" ],
+  "Dependencies": [],
+  "ContentPackFor": {
+    "UniqueID": "PeacefulEnd.AlternativeTextures",
+    "MinimumVersion": "5.0.0-beta.14"
+  }
+}

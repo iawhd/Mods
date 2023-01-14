@@ -1,0 +1,12 @@
+{
+  "EntryDll": "AtraCore.dll",
+  "Name": "AtraCore",
+  "Author": "atravita",
+  "Version": "0.1.3",
+  "Description": "A core library mod some of my other mods depend on.",
+  "UniqueID": "atravita.AtraCore",
+  "MinimumApiVersion": "3.18",
+  "UpdateKeys": [
+    "Nexus:12932"
+  ]
+}

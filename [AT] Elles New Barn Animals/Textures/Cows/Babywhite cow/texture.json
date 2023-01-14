@@ -1,0 +1,68 @@
+{
+  "ItemName": "BabyWhite Cow",
+  "Type": "Character",
+  "TextureWidth": 128,
+  "TextureHeight": 160,
+  "ManualVariations": [
+	{
+      "Id": 0,
+      "ChanceWeight": 0.1,
+	  "Name": "BeltedBlack",
+	  "Keywords": [ "Elle's New Barn BeltedBlack Cow" ]
+    },
+	{
+      "Id": 1,
+      "ChanceWeight": 0.1,
+	  "Name": "BeltedGrey",
+	  "Keywords": [ "Elle's New Barn BeltedGrey Cow" ]
+    },
+	{
+      "Id": 2,
+      "ChanceWeight": 0.1,
+      "Name": "HerefordBlack",
+	  "Keywords": [ "Elle's New Barn HerefordBlack Cow" ]
+    },
+    {
+      "Id": 3,
+      "ChanceWeight": 0.1,
+	  "Name": "HerefordGrey",
+	  "Keywords": [ "Elle's New Barn HerefordGrey Cow" ]
+    },
+	{
+      "Id": 4,
+      "ChanceWeight": 0.1,
+      "Name": "SolidBlack",
+	  "Keywords": [ "Elle's New Barn SolidBlack Cow" ]
+    },
+    {
+      "Id": 5,
+      "ChanceWeight": 0.1,
+	  "Name": "SolidCream",
+	  "Keywords": [ "Elle's New Barn SolidCream Cow" ]
+    },
+	{
+      "Id": 6,
+      "ChanceWeight": 0.1,
+      "Name": "SolidGrey",
+	  "Keywords": [ "Elle's New Barn SolidGrey Cow" ]
+    },
+    {
+      "Id": 7,
+      "ChanceWeight": 0.1,
+	  "Name": "SolidWhite",
+	  "Keywords": [ "Elle's New Barn SolidWhite Cow" ]
+    },
+	{
+      "Id": 8,
+      "ChanceWeight": 0.1,
+      "Name": "SpottedBlack",
+	  "Keywords": [ "Elle's New Barn SpottedBlack Cow" ]
+    },
+    {
+      "Id": 9,
+      "ChanceWeight": 0.1,
+	  "Name": "SpottedGrey",
+	  "Keywords": [ "Elle's New Barn SpottedGrey Cow" ]
+    }
+	]
+}

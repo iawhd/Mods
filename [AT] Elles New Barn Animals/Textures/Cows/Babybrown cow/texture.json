@@ -1,0 +1,56 @@
+{
+  "ItemName": "BabyBrown Cow",
+  "Type": "Character",
+  "TextureWidth": 128,
+  "TextureHeight": 160,
+  "ManualVariations": [
+	{
+      "Id": 0,
+      "ChanceWeight": 0.1,
+	  "Name": "BeltedBlonde",
+	  "Keywords": [ "Elle's New Barn BeltedBlonde Cow" ]
+    },
+	{
+      "Id": 1,
+      "ChanceWeight": 0.1,
+	  "Name": "BeltedBrown",
+	  "Keywords": [ "Elle's New Barn BeltedBrown Cow" ]
+    },
+	{
+      "Id": 2,
+      "ChanceWeight": 0.1,
+      "Name": "HerefordBlonde",
+	  "Keywords": [ "Elle's New Barn HerefordBlonde Cow" ]
+    },
+    {
+      "Id": 3,
+      "ChanceWeight": 0.1,
+	  "Name": "HerefordBrown",
+	  "Keywords": [ "Elle's New Barn HerefordBrown Cow" ]
+    },
+	{
+      "Id": 4,
+      "ChanceWeight": 0.1,
+      "Name": "SolidBlonde",
+	  "Keywords": [ "Elle's New Barn SolidBlonde Cow" ]
+    },
+    {
+      "Id": 5,
+      "ChanceWeight": 0.1,
+	  "Name": "SolidBrown",
+	  "Keywords": [ "Elle's New Barn SolidBrown Cow" ]
+    },
+	{
+      "Id": 6,
+      "ChanceWeight": 0.1,
+      "Name": "SpottedBlonde",
+	  "Keywords": [ "Elle's New Barn SpottedBlonde Cow" ]
+    },
+    {
+      "Id": 7,
+      "ChanceWeight": 0.1,
+	  "Name": "SpottedBrown",
+	  "Keywords": [ "Elle's New Barn SpottedBrown Cow" ]
+    }
+	]
+}

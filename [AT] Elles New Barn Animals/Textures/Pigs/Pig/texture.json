@@ -1,0 +1,92 @@
+{
+  "ItemName": "Pig",
+  "Type": "Character",
+  "TextureWidth": 128,
+  "TextureHeight": 160,
+  "ManualVariations": [
+	{
+      "Id": 0,
+      "ChanceWeight": 0.1,
+	  "Name": "BeltedBlack",
+	  "Keywords": [ "Elle's New Barn BeltedBlack Pig" ]
+    },
+	{
+      "Id": 1,
+      "ChanceWeight": 0.1,
+	  "Name": "BeltedBrown",
+	  "Keywords": [ "Elle's New Barn BeltedBrown Pig" ]
+    },
+	{
+      "Id": 2,
+      "ChanceWeight": 0.1,
+      "Name": "BeltedGrey",
+	  "Keywords": [ "Elle's New Barn BeltedGrey Pig" ]
+    },
+    {
+      "Id": 3,
+      "ChanceWeight": 0.1,
+	  "Name": "BeltedPink",
+	  "Keywords": [ "Elle's New Barn BeltedPink Pig" ]
+    },
+	{
+      "Id": 4,
+      "ChanceWeight": 0.1,
+      "Name": "SolidBlack",
+	  "Keywords": [ "Elle's New Barn SolidBlack Pig" ]
+    },
+    {
+      "Id": 5,
+      "ChanceWeight": 0.1,
+	  "Name": "SolidBrown",
+	  "Keywords": [ "Elle's New Barn SolidBrown Pig" ]
+    },
+	{
+      "Id": 6,
+      "ChanceWeight": 0.1,
+      "Name": "SolidCream",
+	  "Keywords": [ "Elle's New Barn SolidCream Pig" ]
+    },
+    {
+      "Id": 7,
+      "ChanceWeight": 0.1,
+	  "Name": "SolidGrey",
+	  "Keywords": [ "Elle's New Barn SolidGrey Pig" ]
+    },
+	{
+      "Id": 8,
+      "ChanceWeight": 0.1,
+      "Name": "SolidPink",
+	  "Keywords": [ "Elle's New Barn SolidPink Pig" ]
+    },
+    {
+      "Id": 9,
+      "ChanceWeight": 0.1,
+	  "Name": "SolidWhite",
+	  "Keywords": [ "Elle's New Barn SolidWhite Pig" ]
+    },
+	{
+      "Id": 10,
+      "ChanceWeight": 0.1,
+	  "Name": "SpottedBrown",
+	  "Keywords": [ "Elle's New Barn SpottedBrown Pig" ]
+    },
+	{
+      "Id": 11,
+      "ChanceWeight": 0.1,
+	  "Name": "SpottedCream",
+	  "Keywords": [ "Elle's New Barn SpottedCream Pig" ]
+    },
+	{
+      "Id": 12,
+      "ChanceWeight": 0.1,
+	  "Name": "SpottedGrey",
+	  "Keywords": [ "Elle's New Barn SpottedGrey Pig" ]
+    },
+	{
+      "Id": 13,
+      "ChanceWeight": 0.1,
+	  "Name": "SpottedPink",
+	  "Keywords": [ "Elle's New Barn SpottedPink Pig" ]
+    }
+	]
+}

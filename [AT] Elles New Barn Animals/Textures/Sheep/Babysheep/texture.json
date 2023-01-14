@@ -1,0 +1,104 @@
+{
+  "ItemName": "BabySheep",
+  "Type": "Character",
+  "TextureWidth": 128,
+  "TextureHeight": 160,
+  "ManualVariations": [
+	{
+      "Id": 0,
+      "ChanceWeight": 0.1,
+	  "Name": "AlpacaBlack",
+	  "Keywords": [ "Elle's New Barn AlpacaBlack Sheep" ]
+    },
+	{
+      "Id": 1,
+      "ChanceWeight": 0.1,
+	  "Name": "AlpacaBlonde",
+	  "Keywords": [ "Elle's New Barn AlpacaBlonde Sheep" ]
+    },
+	{
+      "Id": 2,
+      "ChanceWeight": 0.1,
+      "Name": "AlpacaBrown",
+	  "Keywords": [ "Elle's New Barn AlpacaBrown Sheep" ]
+    },
+    {
+      "Id": 3,
+      "ChanceWeight": 0.1,
+	  "Name": "AlpacaCream",
+	  "Keywords": [ "Elle's New Barn AlpacaCream Sheep" ]
+    },
+	{
+      "Id": 4,
+      "ChanceWeight": 0.1,
+      "Name": "AlpacaGrey",
+	  "Keywords": [ "Elle's New Barn AlpacaGrey Sheep" ]
+    },
+    {
+      "Id": 5,
+      "ChanceWeight": 0.1,
+	  "Name": "AlpacaWhite",
+	  "Keywords": [ "Elle's New Barn AlpacaWhite Sheep" ]
+    },
+	{
+      "Id": 6,
+      "ChanceWeight": 0.1,
+      "Name": "PointedBlack",
+	  "Keywords": [ "Elle's New Barn PointedBlack Sheep" ]
+    },
+    {
+      "Id": 7,
+      "ChanceWeight": 0.1,
+	  "Name": "PointedBlonde",
+	  "Keywords": [ "Elle's New Barn PointedBlonde Sheep" ]
+    },
+	{
+      "Id": 8,
+      "ChanceWeight": 0.1,
+      "Name": "PointedBrown",
+	  "Keywords": [ "Elle's New Barn PointedBrown Sheep" ]
+    },
+    {
+      "Id": 9,
+      "ChanceWeight": 0.1,
+	  "Name": "PointedGrey",
+	  "Keywords": [ "Elle's New Barn PointedGrey Sheep" ]
+    },
+	{
+      "Id": 10,
+      "ChanceWeight": 0.1,
+	  "Name": "SolidBlack",
+	  "Keywords": [ "Elle's New Barn SolidBlack Sheep" ]
+    },
+	{
+      "Id": 11,
+      "ChanceWeight": 0.1,
+	  "Name": "SolidBlonde",
+	  "Keywords": [ "Elle's New Barn SolidBlonde Sheep" ]
+    },
+	{
+      "Id": 12,
+      "ChanceWeight": 0.1,
+	  "Name": "SolidBrown",
+	  "Keywords": [ "Elle's New Barn SolidBrown Sheep" ]
+    },
+	{
+      "Id": 13,
+      "ChanceWeight": 0.1,
+	  "Name": "SolidCream",
+	  "Keywords": [ "Elle's New Barn SolidCream Sheep" ]
+    },
+	{
+      "Id": 14,
+      "ChanceWeight": 0.1,
+	  "Name": "SolidGrey",
+	  "Keywords": [ "Elle's New Barn SolidGrey Sheep" ]
+    },
+	{
+      "Id": 15,
+      "ChanceWeight": 0.1,
+	  "Name": "SolidWhite",
+	  "Keywords": [ "Elle's New Barn SolidWhite Sheep" ]
+    }
+	]
+}

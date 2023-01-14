@@ -1,0 +1,194 @@
+{
+  "ItemName": "Horse",
+  "Type": "Character",
+  "TextureWidth": 224,
+  "TextureHeight": 128,
+  "ManualVariations": [
+    {
+      "Id": 0,
+	  "Name": "Vanilla",
+      "ChanceWeight": 0.3,
+	  "Keywords": [ "Elle's New Horses YellowSaddle Vanilla" ]
+    },
+	{
+      "Id": 1,
+	  "Name": "Andalusian",
+      "ChanceWeight": 0.3,
+	  "Keywords": [ "Elle's New Horses YellowSaddle Andalusian" ]
+    },
+	{
+      "Id": 2,
+      "ChanceWeight": 0.3,
+	  "Name": "AppaloosaBlack" ,
+	  "Keywords": [ "Elle's New Horses YellowSaddle AppaloosaBlack" ]
+    },
+	{
+      "Id": 3,
+      "ChanceWeight": 0.3,
+      "Name": "AppaloosaBlonde" ,
+	  "Keywords": [ "Elle's New Horses YellowSaddle AppaloosaBlonde" ]
+    },
+    {
+      "Id": 4,
+      "ChanceWeight": 0.3,
+	  "Name": "AppaloosaBrown" ,
+	  "Keywords": [ "Elle's New Horses YellowSaddle AppaloosaBrown" ]
+    },
+	{
+      "Id": 5,
+      "ChanceWeight": 0.3,
+      "Name": "AppaloosaGrey" ,
+	  "Keywords": [ "Elle's New Horses YellowSaddle AppaloosaGrey" ]
+    },
+    {
+      "Id": 6,
+      "ChanceWeight": 0.3,
+	  "Name": "BlackForest" ,
+	  "Keywords": [ "Elle's New Horses YellowSaddle BlackForest" ]
+    },
+	{
+      "Id": 7,
+      "ChanceWeight": 0.3,
+      "Name": "BlackShire" ,
+	  "Keywords": [ "Elle's New Horses YellowSaddle BlackShire" ]
+    },
+    {
+      "Id": 8,
+      "ChanceWeight": 0.3,
+	  "Name": "Buckskin" ,
+	  "Keywords": [ "Elle's New Horses YellowSaddle Buckskin" ]
+    },
+	{
+      "Id": 9,
+      "ChanceWeight": 0.3,
+      "Name": "Chestnut" ,
+	  "Keywords": [ "Elle's New Horses YellowSaddle Chestnut" ]
+    },
+    {
+      "Id": 10,
+      "ChanceWeight": 0.3,
+	  "Name": "ClevelandBay" ,
+	  "Keywords": [ "Elle's New Horses YellowSaddle ClevelandBay" ]
+    },
+	{
+      "Id": 11,
+      "ChanceWeight": 0.3,
+	  "Name": "Clydesdale" ,
+	  "Keywords": [ "Elle's New Horses YellowSaddle Clydesdale" ]
+    },
+	{
+      "Id": 12,
+      "ChanceWeight": 0.3,
+	  "Name": "Fjord" ,
+	  "Keywords": [ "Elle's New Horses YellowSaddle Fjord" ]
+    },
+	{
+      "Id": 13,
+      "ChanceWeight": 0.3,
+	  "Name": "Marwari" ,
+	  "Keywords": [ "Elle's New Horses YellowSaddle Marwari" ]
+    },
+	{
+      "Id": 14,
+      "ChanceWeight": 0.3,
+	  "Name": "Palomino" ,
+	  "Keywords": [ "Elle's New Horses YellowSaddle Palomino" ]
+    },
+	{
+      "Id": 15,
+      "ChanceWeight": 0.3,
+	  "Name": "PintoBlack" ,
+	  "Keywords": [ "Elle's New Horses YellowSaddle PintoBlack" ]
+    },
+	{
+      "Id": 16,
+      "ChanceWeight": 0.3,
+	  "Name": "PintoBlonde" ,
+	  "Keywords": [ "Elle's New Horses YellowSaddle PintoBlonde" ]
+    },
+	{
+      "Id": 17,
+      "ChanceWeight": 0.3,
+	  "Name": "PintoBrown" ,
+	  "Keywords": [ "Elle's New Horses YellowSaddle PintoBrown" ]
+    },
+	{
+      "Id": 18,
+      "ChanceWeight": 0.3,
+	  "Name": "PintoGrey" ,
+	  "Keywords": [ "Elle's New Horses YellowSaddle PintoGrey" ]
+    },
+	{
+      "Id": 19,
+      "ChanceWeight": 0.3,
+	  "Name": "PrismaticBlack" ,
+	  "Keywords": [ "Elle's New Horses YellowSaddle PrismaticBlack" ]
+    },
+	{
+      "Id": 20,
+      "ChanceWeight": 0.3,
+	  "Name": "PrismaticWhite" ,
+	  "Keywords": [ "Elle's New Horses YellowSaddle PrismaticWhite" ]
+    },
+	{
+      "Id": 21,
+      "ChanceWeight": 0.3,
+	  "Name": "RoanBay" ,
+	  "Keywords": [ "Elle's New Horses YellowSaddle RoanBay" ]
+    },
+	{
+      "Id": 22,
+      "ChanceWeight": 0.3,
+	  "Name": "RoanBlue" ,
+	  "Keywords": [ "Elle's New Horses YellowSaddle RoanBlue" ]
+    },
+	{
+      "Id": 23,
+      "ChanceWeight": 0.3,
+	  "Name": "RoanStrawberry" ,
+	  "Keywords": [ "Elle's New Horses YellowSaddle RoanStrawberry" ]
+    },
+	{
+      "Id": 24,
+      "ChanceWeight": 0.3,
+	  "Name": "SilverBay" ,
+	  "Keywords": [ "Elle's New Horses YellowSaddle SilverBay" ]
+    },
+	{
+      "Id": 25,
+      "ChanceWeight": 0.3,
+	  "Name": "SilverRocky" ,
+	  "Keywords": [ "Elle's New Horses YellowSaddle SilverRocky" ]
+    },
+	{
+      "Id": 26,
+      "ChanceWeight": 0.3,
+	  "Name": "SolidBlack" ,
+	  "Keywords": [ "Elle's New Horses YellowSaddle SolidBlack" ]
+    },
+	{
+      "Id": 27,
+      "ChanceWeight": 0.3,
+	  "Name": "SolidBlonde" ,
+	  "Keywords": [ "Elle's New Horses YellowSaddle SolidBlonde" ]
+    },
+	{
+      "Id": 28,
+      "ChanceWeight": 0.3,
+	  "Name": "SolidBrown" ,
+	  "Keywords": [ "Elle's New Horses YellowSaddle SolidBrown" ]
+    },
+	{
+      "Id": 29,
+      "ChanceWeight": 0.3,
+	  "Name": "SolidGrey" ,
+	  "Keywords": [ "Elle's New Horses YellowSaddle SolidGrey" ]
+    },
+	{
+      "Id": 30,
+      "ChanceWeight": 0.3,
+	  "Name": "SolidWhite" ,
+	  "Keywords": [ "Elle's New Horses YellowSaddle SolidWhite" ]
+    }
+  ]
+}

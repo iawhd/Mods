@@ -1,0 +1,23 @@
+{
+	//Tools name changes
+	"Copper": "打补丁的",
+	"Steel": "修复的",
+	"Gold": "加固的",
+	"Iridium": "大师级的",
+	"Bamboo_Pole": "旧鱼竿",
+	"Fiberglass_Rod": "加强型鱼竿",
+	"Iridium_Rod": "大师级鱼竿",
+	
+	//Golden scythe to sickle changes
+	"Empty_hopper": "料斗是空的。建一个筒仓，用你的镰刀或铲子割草来重新填满它。",
+	"Scythe_harvest": "需要镰刀",
+	"Golden_Scythe": "金色的镰刀",
+	"Golden_Scythe_info": "它比普通镰刀更有力。",
+	
+	//Seed info
+	"Rice_Shoot": "在春天种植这些植物。需要8天时间才能成熟。如果种植在水体附近，生长得更快。用镰刀收获。",
+	"Amaranth_Seeds": "在秋季种植这些植物。需要7天时间才能成熟。用镰刀收获。",
+	"Kale_Seeds": "在春天种植这些植物。需要6天时间才能成熟。用镰刀收获。",
+	"Wheat_Seeds": "在夏季或秋季种植这些植物。需要4天时间才能成熟。用镰刀收获。",
+	"Fiber_Seeds": "在任何季节都可以种植这些植物。不需要浇水。用镰刀收获。生长需要7天。",
+}

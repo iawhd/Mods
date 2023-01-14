@@ -1,0 +1,50 @@
+{
+  "ItemName": "Dinosaur",
+  "Type": "Character",
+  "TextureWidth": 64,
+  "TextureHeight": 112,
+  "ManualVariations": [
+    {
+      "Id": 0,
+	  "ChanceWeight": 0.1,
+	  "Name": "Black",
+	  "Keywords": [ "Elle's New Coop Black Dinosaur" ]
+    },
+	{
+      "Id": 1,
+	  "ChanceWeight": 0.1,
+	  "Name": "Blue",
+      "Keywords": [ "Elle's New Coop Blue Dinosaur" ]
+    },
+	{
+      "Id": 2,
+      "ChanceWeight": 0.1,
+	  "Name": "Cream",
+	  "Keywords": [ "Elle's New Coop Cream Dinosaur" ]
+    },
+	{
+      "Id": 3,
+      "ChanceWeight": 0.1,
+      "Name": "Green",
+	  "Keywords": [ "Elle's New Coop Green Dinosaur" ]
+    },
+    {
+      "Id": 4,
+      "ChanceWeight": 0.1,
+	  "Name": "Grey",
+	  "Keywords": [ "Elle's New Coop Grey Dinosaur" ]
+    },
+	{
+      "Id": 5,
+      "ChanceWeight": 0.1,
+      "Name": "Purple",
+	  "Keywords": [ "Elle's New Coop Purple Dinosaur" ]
+    },
+    {
+      "Id": 6,
+      "ChanceWeight": 0.1,
+	  "Name": "White",
+	  "Keywords": [ "Elle's New Coop White Dinosaur" ]
+    }
+	]
+}

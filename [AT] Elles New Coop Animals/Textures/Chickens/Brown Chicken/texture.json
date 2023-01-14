@@ -1,0 +1,44 @@
+{
+  "ItemName": "Brown Chicken",
+  "Type": "Character",
+  "TextureWidth": 64,
+  "TextureHeight": 112,
+  "ManualVariations": [
+  {
+      "Id": 0,
+	  "ChanceWeight": 0.1,
+	  "Name": "Blonde",
+	  "Keywords": [ "Elle's New Coop Blonde Chicken" ]
+    },
+	{
+      "Id": 1,
+	  "ChanceWeight": 0.1,
+	  "Name": "Brown",
+	  "Keywords": [ "Elle's New Coop Brown Chicken" ]
+    },
+	{
+      "Id": 2,
+      "ChanceWeight": 0.1,
+	  "Name": "BrahmaBlonde",
+	  "Keywords": [ "Elle's New Coop BrahmaBlonde Chicken" ]
+    },
+	{
+      "Id": 3,
+      "ChanceWeight": 0.1,
+      "Name": "BrahmaBrown",
+	  "Keywords": [ "Elle's New Coop BrahmaBrown Chicken" ]
+    },
+    {
+      "Id": 4,
+      "ChanceWeight": 0.1,
+	  "Name": "SilkieBlonde",
+	  "Keywords": [ "Elle's New Coop SilkieBlonde Chicken" ]
+    },
+	{
+      "Id": 5,
+      "ChanceWeight": 0.1,
+      "Name": "SilkieBrown",
+	  "Keywords": [ "Elle's New Coop SilkieBrown Chicken" ]
+    }
+	]
+}

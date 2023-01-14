@@ -1,0 +1,20 @@
+{
+  "Music": [
+    {
+      "Id": "jojaOfficeSoundscape",
+      "File": "filter.wav",
+      "Loop": true,
+      "Preload": true
+    }
+  ],
+    "Locations": [
+   {
+        "Location": "JojaMart",
+        "MusicId": "cm:jojaOfficeSoundscape"
+      }
+    ]
+  
+}
+
+
+

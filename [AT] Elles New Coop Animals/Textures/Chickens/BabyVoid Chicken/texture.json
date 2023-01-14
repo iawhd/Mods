@@ -1,0 +1,68 @@
+{
+  "ItemName": "BabyVoid Chicken",
+  "Type": "Character",
+  "TextureWidth": 64,
+  "TextureHeight": 112,
+  "ManualVariations": [
+    {
+      "Id": 0,
+	  "ChanceWeight": 0.1,
+	  "Name": "Black",
+	  "Keywords": [ "Elle's New Coop Black Chicken" ]
+    },
+	{
+      "Id": 1,
+	  "ChanceWeight": 0.1,
+	  "Name": "Grey",
+      "Keywords": [ "Elle's New Coop Grey Chicken" ]
+    },
+	{
+      "Id": 2,
+      "ChanceWeight": 0.1,
+	  "Name": "Brahma Black",
+	  "Keywords": [ "Elle's New Coop BrahmaBlack Chicken" ]
+    },
+	{
+      "Id": 3,
+      "ChanceWeight": 0.1,
+      "Name": "Brahma Grey",
+	  "Keywords": [ "Elle's New Coop BrahmaGrey Chicken" ]
+    },
+    {
+      "Id": 4,
+      "ChanceWeight": 0.1,
+	  "Name": "Silkie Black",
+	  "Keywords": [ "Elle's New Coop SilkieBlack Chicken" ]
+    },
+	{
+      "Id": 5,
+      "ChanceWeight": 0.1,
+      "Name": "Silkie Grey",
+	  "Keywords": [ "Elle's New Coop SilkieGrey Chicken" ]
+    },
+    {
+      "Id": 6,
+      "ChanceWeight": 0.1,
+	  "Name": "Black",
+	  "Keywords": [ "Elle's New Coop Black Chicken" ]
+    },
+	{
+      "Id": 7,
+      "ChanceWeight": 0.1,
+      "Name": "VoidEyes",
+	  "Keywords": [ "Elle's New Coop VoidEyes Chicken" ]
+    },
+    {
+      "Id": 8,
+      "ChanceWeight": 0.1,
+	  "Name": "Purple",
+	  "Keywords": [ "Elle's New Coop Purple Chicken" ]
+    },
+	{
+      "Id": 9,
+      "ChanceWeight": 0.1,
+      "Name": "VoidRed",
+	  "Keywords": [ "Elle's New Coop VoidRed Chicken" ]
+    }
+	]
+}

@@ -1,0 +1,44 @@
+{
+  "ItemName": "BabyWhite Chicken",
+  "Type": "Character",
+  "TextureWidth": 64,
+  "TextureHeight": 224,
+  "ManualVariations": [
+    {
+      "Id": 0,
+	  "ChanceWeight": 0.1,
+	  "Name": "Cream",
+	  "Keywords": [ "Elle's New Coop Cream Chicken" ]
+    },
+	{
+      "Id": 1,
+	  "ChanceWeight": 0.1,
+	  "Name": "White",
+      "Keywords": [ "Elle's New Coop White Chicken" ]
+    },
+	{
+      "Id": 2,
+      "ChanceWeight": 0.1,
+	  "Name": "BrahmaCream",
+	  "Keywords": [ "Elle's New Coop BrahmaCream Chicken" ]
+    },
+	{
+      "Id": 3,
+      "ChanceWeight": 0.1,
+      "Name": "BrahmaWhite",
+	  "Keywords": [ "Elle's New Coop BrahmaWhite Chicken" ]
+    },
+    {
+      "Id": 4,
+      "ChanceWeight": 0.1,
+	  "Name": "SilkieCream",
+	  "Keywords": [ "Elle's New Coop SilkieCream Chicken" ]
+    },
+	{
+      "Id": 5,
+      "ChanceWeight": 0.1,
+      "Name": "SilkieWhite",
+	  "Keywords": [ "Elle's New Coop SilkieWhite Chicken" ]
+    }
+	]
+}

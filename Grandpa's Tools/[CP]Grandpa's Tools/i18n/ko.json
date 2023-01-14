@@ -1,0 +1,23 @@
+﻿{
+	//Tools name changes
+	"Copper": "조각난",
+	"Steel": "복원한",
+	"Gold": "보강된",
+	"Iridium": "완벽한",
+	"Bamboo_Pole": "낡은 낚싯대",
+	"Fiberglass_Rod": "보강된 낚싯대",
+	"Iridium_Rod": "완벽한 낚싯대",
+	
+	//Golden scythe to sickle changes
+	"Empty_hopper": "호퍼가 비어 있습니다. 사일로를 만든 뒤 낫을 이용해 풀을 베어서 건초를 채워주거나, 마니에게 건초를 구입해서 채워주세요.",
+	"Scythe_harvest": "낫이 필요합니다.",
+	"Golden_Scythe": "황금 낫",
+	"Golden_Scythe_info": "일반 낫보다 훨씬 강력합니다. 황금인걸요!",
+	
+	//Seed info
+	"Rice_Shoot": "봄에 자라는 작물. 다 자라는데 8일이 걸리며, 물 근처에 있으면 더욱 빨리 자란다. 낫을 이용해 수확할 수 있다.",
+	"Amaranth_Seeds": "가을에 자라는 작물. 다 자라는데 7일이 걸리며, 낫을 이용해 수확할 수 있다.",
+	"Kale_Seeds": "봄에 자라는 작물. 다 자라는데 6일이 걸리며, 낫을 이용해 수확할 수 있다.",
+	"Wheat_Seeds": "여름과 가을에 자라는 작물. 다 자라는데 4일이 걸리며, 낫을 이용해 수확할 수 있다.",
+	"Fiber_Seeds": "계절에 상관 없이 자라는 작물. 다 자라는데 7일이 걸리며, 물을 필요로 하지 않는다. 낫을 이용해 수확할 수 있다.",
+}

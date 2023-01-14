@@ -1,0 +1,56 @@
+{
+  "ItemName": "Duck",
+  "Type": "Character",
+  "TextureWidth": 64,
+  "TextureHeight": 224,
+  "ManualVariations": [
+    {
+      "Id": 0,
+	  "ChanceWeight": 0.1,
+	  "Name": "MallardFemale",
+	  "Keywords": [ "Elle's New Coop MallardFemale Duck" ]
+    },
+	{
+      "Id": 1,
+	  "ChanceWeight": 0.1,
+	  "Name": "MallardMale",
+      "Keywords": [ "Elle's New Coop MallardMale Duck" ]
+    },
+	{
+      "Id": 2,
+      "ChanceWeight": 0.1,
+	  "Name": "SolidBlack",
+	  "Keywords": [ "Elle's New Coop SolidBlack Duck" ]
+    },
+	{
+      "Id": 3,
+      "ChanceWeight": 0.1,
+      "Name": "SolidBlonde",
+	  "Keywords": [ "Elle's New Coop SolidBlonde Duck" ]
+    },
+    {
+      "Id": 4,
+      "ChanceWeight": 0.1,
+	  "Name": "SolidBrown",
+	  "Keywords": [ "Elle's New Coop SolidBrown Duck" ]
+    },
+	{
+      "Id": 5,
+      "ChanceWeight": 0.1,
+      "Name": "SolidCream",
+	  "Keywords": [ "Elle's New Coop SolidCream Duck" ]
+    },
+    {
+      "Id": 6,
+      "ChanceWeight": 0.1,
+	  "Name": "SolidGrey",
+	  "Keywords": [ "Elle's New Coop SolidGrey Duck" ]
+    },
+	{
+      "Id": 7,
+      "ChanceWeight": 0.1,
+      "Name": "SolidWhite",
+	  "Keywords": [ "Elle's New Coop SolidWhite Duck" ]
+    }
+	]
+}

@@ -1,0 +1,12 @@
+- See the official Wiki for the Alternative Textures framework to see what it can do: https://github.com/Floogen/AlternativeTextures/wiki/Creating-a-Content-Pack
+
+- If you feel like there are too many images individual content packs can be disabled any of three different ways:
+1. In the AT config file you can switch off content packs
+2. You can simply delete folders that only have images you don't want to uninstall them
+3. Put a "." at the beginning of the folder name. This will only work on the main folder though, and not on folders inside "Textures"
+
+- These textures also work with "adopt n skin" if you don't have an "adopt n skin" content pack installed.
+
+- Unlike the CP mod, this mod won't show a matching icon for the texture you're using in your farm summary. As a result unlesss you have more than one horse on your farm you may prefer to use the CP version of this mod.
+
+- The benefit of AT mods is you can have as many as you want without having the same conflicts you'd have with CP mods and you can look at all the pretty pixels you're choosing between while in game.

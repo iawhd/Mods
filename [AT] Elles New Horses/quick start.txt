@@ -1,0 +1,11 @@
+HOW TO USE
+
+Before starting your game:
+1. Put this folder in your stardew "Mods" folder. The folder path should be something like:
+"C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mods\"
+
+In game:
+1. Go to Robin's and buy "scissors" from the shop.
+2. With the scissor tool selected, right click on the horse when it is on your farm.
+3. Find the texture you want. You can navigate by clicking the arrow keys or typing keywords in the search bar in the top right.
+4. Click the image you like to select a texture.

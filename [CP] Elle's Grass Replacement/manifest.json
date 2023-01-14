@@ -1,0 +1,12 @@
+{
+   "Name": "Elle's Grass Replacement",
+   "Author": "Elle/Junimods",
+   "Version": "1.1.1",
+   "Description": "Replaces grass.xnb!",
+   "UniqueID": "Elle.Grass",
+   "MinimumApiVersion": "2.5",
+   "UpdateKeys": [ "Nexus:1967" ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}

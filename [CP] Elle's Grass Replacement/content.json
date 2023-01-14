@@ -1,0 +1,20 @@
+{
+  "Format": "1.7",
+  
+  "ConfigSchema": {
+    "GrassLength": {"AllowValues": "Short, Tall",
+	"Default": "Short"},
+	},
+	
+	
+  "Changes": [
+       // Grass
+       {
+          "Action": "EditImage",
+          "Target": "TerrainFeatures/grass",
+          "FromFile": "assets/{{GrassLength}}Grass.png",
+          "FromArea": { "X": 0, "Y": 0, "Width": 45, "Height": 140 }, 
+          "ToArea": { "X": 0, "Y": 0, "Width": 45, "Height": 140 },
+       },
+    ]
+}

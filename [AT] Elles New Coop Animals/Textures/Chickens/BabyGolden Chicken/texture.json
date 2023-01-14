@@ -1,0 +1,14 @@
+{
+  "ItemName": "BabyGolden Chicken",
+  "Type": "Character",
+  "TextureWidth": 64,
+  "TextureHeight": 112,
+  "ManualVariations": [
+	{
+      "Id": 0,
+	  "ChanceWeight": 0.1,
+	  "Name": "Golden",
+	  "Keywords": [ "Elle's New Coop Golden Chicken" ]
+    },
+	]
+}
