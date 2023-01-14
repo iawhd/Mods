@@ -1,0 +1,12 @@
+{
+    "Name": "[CP] More Backpack Upgrades",
+    "Author": "aedenthorn",
+    "Version": "0.1.2",
+    "Description": "More Backpacks.",
+    "UniqueID": "aedenthorn.CPMoreBackpacks",
+    "MinimumApiVersion": "3.13.0",
+    "ContentPackFor": {
+       "UniqueID": "Pathoschild.ContentPatcher"
+    },
+  "UpdateKeys": [ "Nexus:13827" ]
+ }
