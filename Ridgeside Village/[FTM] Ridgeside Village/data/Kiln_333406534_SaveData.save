@@ -1,0 +1,76 @@
+{
+  "WeatherForYesterday": "Sunny",
+  "LNOSCounter": {
+    "RSV RidgeForest Treasures": 1,
+    "Ridge Log": 1
+  },
+  "ExistingObjectLocations": {},
+  "SavedObjects": [
+    {
+      "MapName": "Custom_Ridgeside_Ridge",
+      "Name": null,
+      "Tile": "26, 14",
+      "Type": "ResourceClump",
+      "ID": 602,
+      "DaysUntilExpire": 0,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Custom_Ridgeside_RidgeForest",
+      "Name": null,
+      "Tile": "26, 100",
+      "Type": "Forage",
+      "ID": 499,
+      "DaysUntilExpire": 4,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Custom_Ridgeside_RidgeForest",
+      "Name": null,
+      "Tile": "58, 121",
+      "Type": "Forage",
+      "ID": 168,
+      "DaysUntilExpire": 4,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Custom_Ridgeside_RidgeForest",
+      "Name": null,
+      "Tile": "56, 11",
+      "Type": "Forage",
+      "ID": 168,
+      "DaysUntilExpire": 4,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Custom_Ridgeside_SummitFarm",
+      "Name": null,
+      "Tile": "47, 78",
+      "Type": "ResourceClump",
+      "ID": 672,
+      "DaysUntilExpire": 0,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Custom_Ridgeside_SummitFarm",
+      "Name": null,
+      "Tile": "87, 58",
+      "Type": "ResourceClump",
+      "ID": 602,
+      "DaysUntilExpire": 0,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    }
+  ]
+}
