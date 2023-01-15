@@ -7,7 +7,7 @@
   "AddBuffReassigning": true,
   "PlayCookingAnimation": true,
   "HideFoodBuffsUntilEaten": false,
-  "FoodHealingTakesTime": true,
+  "FoodHealingTakesTime": false,
   "FoodCanBurn": false,
   "ShowFoodRegenBar": true,
   "RememberLastSearchFilter": true,

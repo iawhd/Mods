@@ -2,6 +2,6 @@
     "ShowFishingHud": true,
     "TopLeftX": 0,
     "TopLeftY": 0,
-    "MaxFishTypes": 5,
+    "MaxFishTypes": 20,
     "ShowTrash": false
 }
