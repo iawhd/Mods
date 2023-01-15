@@ -23,7 +23,7 @@
       "Tile": "26, 100",
       "Type": "Forage",
       "ID": 499,
-      "DaysUntilExpire": 4,
+      "DaysUntilExpire": 2,
       "SpawnTime": 600,
       "ConfigItem": null,
       "MonType": null
@@ -34,7 +34,7 @@
       "Tile": "58, 121",
       "Type": "Forage",
       "ID": 168,
-      "DaysUntilExpire": 4,
+      "DaysUntilExpire": 2,
       "SpawnTime": 600,
       "ConfigItem": null,
       "MonType": null
@@ -45,7 +45,7 @@
       "Tile": "56, 11",
       "Type": "Forage",
       "ID": 168,
-      "DaysUntilExpire": 4,
+      "DaysUntilExpire": 2,
       "SpawnTime": 600,
       "ConfigItem": null,
       "MonType": null
@@ -65,6 +65,17 @@
       "MapName": "Custom_Ridgeside_SummitFarm",
       "Name": null,
       "Tile": "87, 58",
+      "Type": "ResourceClump",
+      "ID": 602,
+      "DaysUntilExpire": 0,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Custom_Ridgeside_SummitFarm",
+      "Name": null,
+      "Tile": "48, 75",
       "Type": "ResourceClump",
       "ID": 602,
       "DaysUntilExpire": 0,
