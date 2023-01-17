@@ -4,7 +4,7 @@
   "ReplaceHardwoodFences": "false",
   "ImmersiveShadows": "true",
   "MistEffects": "true",
-  "OriginalMinesEntrance": "true",
+  "OriginalMinesEntrance": "false",
   "AlternativeCraftables": "false",
   "RemoveObjectsFromGrandpasShed": "false",
   "RemoveSouthernCactusesFromDesert": "false",

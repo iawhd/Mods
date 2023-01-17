@@ -18,39 +18,6 @@
       "MonType": null
     },
     {
-      "MapName": "Custom_Ridgeside_RidgeForest",
-      "Name": null,
-      "Tile": "26, 100",
-      "Type": "Forage",
-      "ID": 499,
-      "DaysUntilExpire": 2,
-      "SpawnTime": 600,
-      "ConfigItem": null,
-      "MonType": null
-    },
-    {
-      "MapName": "Custom_Ridgeside_RidgeForest",
-      "Name": null,
-      "Tile": "58, 121",
-      "Type": "Forage",
-      "ID": 168,
-      "DaysUntilExpire": 2,
-      "SpawnTime": 600,
-      "ConfigItem": null,
-      "MonType": null
-    },
-    {
-      "MapName": "Custom_Ridgeside_RidgeForest",
-      "Name": null,
-      "Tile": "56, 11",
-      "Type": "Forage",
-      "ID": 168,
-      "DaysUntilExpire": 2,
-      "SpawnTime": 600,
-      "ConfigItem": null,
-      "MonType": null
-    },
-    {
       "MapName": "Custom_Ridgeside_SummitFarm",
       "Name": null,
       "Tile": "47, 78",
@@ -78,6 +45,83 @@
       "Tile": "48, 75",
       "Type": "ResourceClump",
       "ID": 602,
+      "DaysUntilExpire": 0,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Custom_Ridgeside_SummitFarm",
+      "Name": null,
+      "Tile": "87, 66",
+      "Type": "ResourceClump",
+      "ID": 602,
+      "DaysUntilExpire": 0,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Custom_Ridgeside_SummitFarm",
+      "Name": null,
+      "Tile": "46, 75",
+      "Type": "ResourceClump",
+      "ID": 602,
+      "DaysUntilExpire": 0,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Custom_Ridgeside_SummitFarm",
+      "Name": null,
+      "Tile": "13, 77",
+      "Type": "ResourceClump",
+      "ID": 602,
+      "DaysUntilExpire": 0,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Custom_Ridgeside_SummitFarm",
+      "Name": null,
+      "Tile": "37, 44",
+      "Type": "ResourceClump",
+      "ID": 602,
+      "DaysUntilExpire": 0,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Custom_Ridgeside_SummitFarm",
+      "Name": null,
+      "Tile": "83, 53",
+      "Type": "ResourceClump",
+      "ID": 602,
+      "DaysUntilExpire": 0,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Custom_Ridgeside_SummitFarm",
+      "Name": null,
+      "Tile": "17, 49",
+      "Type": "ResourceClump",
+      "ID": 602,
+      "DaysUntilExpire": 0,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Custom_Ridgeside_SummitFarm",
+      "Name": null,
+      "Tile": "56, 69",
+      "Type": "ResourceClump",
+      "ID": 672,
       "DaysUntilExpire": 0,
       "SpawnTime": 600,
       "ConfigItem": null,
