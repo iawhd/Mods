@@ -36,7 +36,7 @@
       "WeaponTooltipStyle": "Absolute",
       "SwipeHold": true
     },
-    "FaceMouseCursor": true,
+    "FaceMouseCursor": false,
     "SlickMoves": true,
     "ColorCodedForYourConvenience": true,
     "RebalancedForges": true,
@@ -128,11 +128,11 @@
     "PrestigeRespecCost": 20000,
     "ChangeUltCost": 0,
     "BaseSkillExpMultipliers": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
+      1.5,
+      1.2,
+      1.2,
+      1.2,
+      1.2,
       1.0
     ],
     "CustomSkillExpMultipliers": {
@@ -281,7 +281,7 @@
     "HideAffectedTiles": false,
     "StaminaCostMultiplier": 1.0,
     "TicksBetweenWaves": 4,
-    "FaceMouseCursor": true
+    "FaceMouseCursor": false
   },
   "Tweex": {
     "BeeHouseAgingFactor": 1.0,
