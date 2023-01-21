@@ -292,6 +292,9 @@
         <member name="T:DaLion.Overhaul.ModState">
             <summary>The core mod user-defined settings.</summary>
         </member>
+        <member name="T:DaLion.Overhaul.Modules.Arsenal.ArsenalSelector">
+            <summary>Smart <see cref="T:StardewValley.Tool"/> selector.</summary>
+        </member>
         <member name="T:DaLion.Overhaul.Modules.Arsenal.ComboHitStep">
             <summary>The hit steps of a <see cref="T:StardewValley.Tools.MeleeWeapon"/> combo.</summary>
         </member>
@@ -323,7 +326,7 @@
         <member name="P:DaLion.Overhaul.Modules.Arsenal.Commands.AddEnchantmentsCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.AddEnchantmentsCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.AddEnchantmentsCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.AddEnchantmentsCommand.GetUsage">
@@ -339,7 +342,7 @@
         <member name="P:DaLion.Overhaul.Modules.Arsenal.Commands.AdvanceQuestCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.AdvanceQuestCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.AdvanceQuestCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.ClearEnchantmentsCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -352,7 +355,7 @@
         <member name="P:DaLion.Overhaul.Modules.Arsenal.Commands.ClearEnchantmentsCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.ClearEnchantmentsCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.ClearEnchantmentsCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.FireProjectileCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -365,7 +368,7 @@
         <member name="P:DaLion.Overhaul.Modules.Arsenal.Commands.FireProjectileCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.FireProjectileCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.FireProjectileCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.FullyEnergizedCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -378,7 +381,7 @@
         <member name="P:DaLion.Overhaul.Modules.Arsenal.Commands.FullyEnergizedCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.FullyEnergizedCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.FullyEnergizedCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.GetCustomItemCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -391,7 +394,7 @@
         <member name="P:DaLion.Overhaul.Modules.Arsenal.Commands.GetCustomItemCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.GetCustomItemCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.GetCustomItemCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.OverHealCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -404,7 +407,7 @@
         <member name="P:DaLion.Overhaul.Modules.Arsenal.Commands.OverHealCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.OverHealCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.OverHealCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.RefreshWeaponCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -417,7 +420,7 @@
         <member name="P:DaLion.Overhaul.Modules.Arsenal.Commands.RefreshWeaponCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.RefreshWeaponCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.RefreshWeaponCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.RemoveEnchantmentsCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -430,7 +433,7 @@
         <member name="P:DaLion.Overhaul.Modules.Arsenal.Commands.RemoveEnchantmentsCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.RemoveEnchantmentsCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.RemoveEnchantmentsCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.RemoveEnchantmentsCommand.GetUsage">
@@ -446,7 +449,7 @@
         <member name="P:DaLion.Overhaul.Modules.Arsenal.Commands.SwordBlessCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.SwordBlessCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.SwordBlessCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.SwordCurseCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -459,7 +462,7 @@
         <member name="P:DaLion.Overhaul.Modules.Arsenal.Commands.SwordCurseCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.SwordCurseCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Arsenal.Commands.SwordCurseCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="T:DaLion.Overhaul.Modules.Arsenal.Config">
@@ -470,6 +473,12 @@
         </member>
         <member name="P:DaLion.Overhaul.Modules.Arsenal.Config.Weapons">
             <inheritdoc cref="T:DaLion.Overhaul.Modules.Arsenal.Configs.WeaponConfig"/>
+        </member>
+        <member name="P:DaLion.Overhaul.Modules.Arsenal.Config.ModKey">
+            <summary>Gets the chosen mod key(s).</summary>
+        </member>
+        <member name="P:DaLion.Overhaul.Modules.Arsenal.Config.EnableAutoSelection">
+            <summary>Gets a value indicating whether to allow auto-selecting a weapon or slingshot.</summary>
         </member>
         <member name="P:DaLion.Overhaul.Modules.Arsenal.Config.FaceMouseCursor">
             <summary>Gets a value indicating whether face the current cursor position before swinging your arsenal.</summary>
@@ -537,6 +546,9 @@
         <member name="P:DaLion.Overhaul.Modules.Arsenal.Configs.SlingshotConfig.BullseyeReplacesCursor">
             <summary>Gets a value indicating whether to replace the mouse cursor with a bulls-eye while firing.</summary>
         </member>
+        <member name="P:DaLion.Overhaul.Modules.Arsenal.Configs.SlingshotConfig.AutoSelectionRange">
+            <summary>Gets a value indicating how close an enemy must be to auto-select a slingshot, in tiles.</summary>
+        </member>
         <member name="T:DaLion.Overhaul.Modules.Arsenal.Configs.WeaponConfig">
             <summary>Configs related to <see cref="T:StardewValley.Tools.MeleeWeapon"/>s.</summary>
         </member>
@@ -551,6 +563,9 @@
         </member>
         <member name="P:DaLion.Overhaul.Modules.Arsenal.Configs.WeaponConfig.EnableComboHits">
             <summary>Gets a value indicating whether to replace vanilla weapon spam with a more strategic combo system.</summary>
+        </member>
+        <member name="P:DaLion.Overhaul.Modules.Arsenal.Configs.WeaponConfig.SwipeHold">
+            <summary>Gets a value indicating whether to keep swiping while the "use tool" key is held.</summary>
         </member>
         <member name="P:DaLion.Overhaul.Modules.Arsenal.Configs.WeaponConfig.ComboHitsPerWeapon">
             <summary>Gets the number of hits in each weapon type's combo.</summary>
@@ -585,8 +600,8 @@
         <member name="P:DaLion.Overhaul.Modules.Arsenal.Configs.WeaponConfig.WeaponTooltipStyle">
             <summary>Gets the style of the tooltips for displaying stat bonuses for weapons.</summary>
         </member>
-        <member name="P:DaLion.Overhaul.Modules.Arsenal.Configs.WeaponConfig.SwipeHold">
-            <summary>Gets a value indicating whether to keep swiping while the "use tool" key is held.</summary>
+        <member name="P:DaLion.Overhaul.Modules.Arsenal.Configs.WeaponConfig.AutoSelectionRange">
+            <summary>Gets a value indicating how close an enemy must be to auto-select a weapon, in tiles.</summary>
         </member>
         <member name="T:DaLion.Overhaul.Modules.Arsenal.Enchantments.BlessedEnchantment">
             <summary>The secondary <see cref="T:StardewValley.BaseWeaponEnchantment"/> which characterizes the Holy Blade.</summary>
@@ -904,6 +919,16 @@
         <member name="M:DaLion.Overhaul.Modules.Arsenal.Events.ArsenalSaveLoadedEvent.OnSaveLoadedImpl(System.Object,StardewModdingAPI.Events.SaveLoadedEventArgs)">
             <inheritdoc />
         </member>
+        <member name="M:DaLion.Overhaul.Modules.Arsenal.Events.ArsenalSavingEvent.#ctor(DaLion.Shared.Events.EventManager)">
+            <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Arsenal.Events.ArsenalSavingEvent"/> class.</summary>
+            <param name="manager">The <see cref="T:DaLion.Shared.Events.EventManager"/> instance that manages this event.</param>
+        </member>
+        <member name="P:DaLion.Overhaul.Modules.Arsenal.Events.ArsenalSavingEvent.IsEnabled">
+            <inheritdoc />
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.Arsenal.Events.ArsenalSavingEvent.OnSavingImpl(System.Object,StardewModdingAPI.Events.SavingEventArgs)">
+            <inheritdoc />
+        </member>
         <member name="M:DaLion.Overhaul.Modules.Arsenal.Events.BlueprintDayStartedEvent.#ctor(DaLion.Shared.Events.EventManager)">
             <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Arsenal.Events.BlueprintDayStartedEvent"/> class.</summary>
             <param name="manager">The <see cref="T:DaLion.Shared.Events.EventManager"/> instance that manages this event.</param>
@@ -1147,12 +1172,14 @@
         </member>
         <member name="T:DaLion.Overhaul.Modules.Arsenal.Infinity.DarkSword">
             <summary>The Dark Sword.</summary>
+            <remarks>Unused.</remarks>
         </member>
         <member name="M:DaLion.Overhaul.Modules.Arsenal.Infinity.DarkSword.#ctor">
             <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Arsenal.Infinity.DarkSword"/> class.</summary>
         </member>
         <member name="T:DaLion.Overhaul.Modules.Arsenal.Infinity.HolyBlade">
-            <summary>The Dark Sword.</summary>
+            <summary>The Holy Blade.</summary>
+            /// <remarks>Unused.</remarks>
         </member>
         <member name="M:DaLion.Overhaul.Modules.Arsenal.Infinity.HolyBlade.#ctor">
             <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Arsenal.Infinity.HolyBlade"/> class.</summary>
@@ -1229,6 +1256,24 @@
         <member name="M:DaLion.Overhaul.Modules.Arsenal.Patchers.Common.IClickableMenuDrawHoverTextPatcher.IClickableMenuDrawHoverTextTranspiler(System.Collections.Generic.IEnumerable{HarmonyLib.CodeInstruction},System.Reflection.Emit.ILGenerator,System.Reflection.MethodBase)">
             <summary>Set hover text color for legendary weapons.</summary>
         </member>
+        <member name="M:DaLion.Overhaul.Modules.Arsenal.Patchers.Common.InventoryPageDrawPatcher.#ctor">
+            <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Arsenal.Patchers.Common.InventoryPageDrawPatcher"/> class.</summary>
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.Arsenal.Patchers.Common.InventoryPageDrawPatcher.InventoryPageDrawTranspiler(System.Collections.Generic.IEnumerable{HarmonyLib.CodeInstruction},System.Reflection.MethodBase)">
+            <summary>Draw selectable indicator.</summary>
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.Arsenal.Patchers.Common.InventoryPageReceiveClickPatcher.#ctor">
+            <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Arsenal.Patchers.Common.InventoryPageReceiveClickPatcher"/> class.</summary>
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.Arsenal.Patchers.Common.InventoryPageReceiveClickPatcher.ApplyImpl(HarmonyLib.Harmony)">
+            <inheritdoc />
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.Arsenal.Patchers.Common.InventoryPageReceiveClickPatcher.UnapplyImpl(HarmonyLib.Harmony)">
+            <inheritdoc />
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.Arsenal.Patchers.Common.InventoryPageReceiveClickPatcher.InventoryPageReceiveClickPrefix(StardewValley.Item,System.Boolean)">
+            <summary>Toggle selectable tool.</summary>
+        </member>
         <member name="M:DaLion.Overhaul.Modules.Arsenal.Patchers.Common.MonsterMovePositionPatcher.#ctor">
             <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Arsenal.Patchers.Common.MonsterMovePositionPatcher"/> class.</summary>
         </member>
@@ -1267,6 +1312,24 @@
         </member>
         <member name="M:DaLion.Overhaul.Modules.Arsenal.Patchers.Common.NpcCheckForNewCurrentDialoguePatcher.NpcCheckForNewCurrentDialoguePrefix(StardewValley.NPC)">
             <summary>Add special custom dialogue.</summary>
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.Arsenal.Patchers.Common.ToolbarDrawPatcher.#ctor">
+            <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Arsenal.Patchers.Common.ToolbarDrawPatcher"/> class.</summary>
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.Arsenal.Patchers.Common.ToolbarDrawPatcher.ToolbarDrawTranspiler(System.Collections.Generic.IEnumerable{HarmonyLib.CodeInstruction},System.Reflection.MethodBase)">
+            <summary>Draw selectable indicator.</summary>
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.Arsenal.Patchers.Common.ToolbarReceiveClickPatcher.#ctor">
+            <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Arsenal.Patchers.Common.ToolbarReceiveClickPatcher"/> class.</summary>
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.Arsenal.Patchers.Common.ToolbarReceiveClickPatcher.ApplyImpl(HarmonyLib.Harmony)">
+            <inheritdoc />
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.Arsenal.Patchers.Common.ToolbarReceiveClickPatcher.UnapplyImpl(HarmonyLib.Harmony)">
+            <inheritdoc />
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.Arsenal.Patchers.Common.ToolbarReceiveClickPatcher.ToolbarReceiveClickPrefix(StardewValley.Item,System.Boolean)">
+            <summary>Toggle selectable tool.</summary>
         </member>
         <member name="M:DaLion.Overhaul.Modules.Arsenal.Patchers.Common.ToolForgePatcher.#ctor">
             <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Arsenal.Patchers.Common.ToolForgePatcher"/> class.</summary>
@@ -1610,13 +1673,13 @@
         <member name="M:DaLion.Overhaul.Modules.Arsenal.Patchers.Integrations.NewForgeMenuIsValidUnforgePatcher.#ctor">
             <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Arsenal.Patchers.Integrations.NewForgeMenuIsValidUnforgePatcher"/> class.</summary>
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Arsenal.Patchers.Integrations.NewForgeMenuIsValidUnforgePatcher.NewForgeMenuIsValidUnforgePostfix(StardewValley.Menus.IClickableMenu,System.Boolean@)">
+        <member name="M:DaLion.Overhaul.Modules.Arsenal.Patchers.Integrations.NewForgeMenuIsValidUnforgePatcher.NewForgeMenuIsValidUnforgePostfix(SpaceCore.Interface.NewForgeMenu,System.Boolean@)">
             <summary>Allow unforge Slingshot.</summary>
         </member>
         <member name="M:DaLion.Overhaul.Modules.Arsenal.Patchers.Integrations.NewForgeMenuSpendRightItemPatcher.#ctor">
             <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Arsenal.Patchers.Integrations.NewForgeMenuSpendRightItemPatcher"/> class.</summary>
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Arsenal.Patchers.Integrations.NewForgeMenuSpendRightItemPatcher.NewForgeMenuSpendRightItemPrefix(StardewValley.Menus.ForgeMenu)">
+        <member name="M:DaLion.Overhaul.Modules.Arsenal.Patchers.Integrations.NewForgeMenuSpendRightItemPatcher.NewForgeMenuSpendRightItemPrefix(SpaceCore.Interface.NewForgeMenu)">
             <summary>Prevent spending Hero Soul.</summary>
         </member>
         <member name="M:DaLion.Overhaul.Modules.Arsenal.Patchers.Integrations.NewForgeMenuUpdatePatcher.#ctor">
@@ -2293,7 +2356,7 @@
         <member name="P:DaLion.Overhaul.Modules.Core.Commands.DebugCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Core.Commands.DebugCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Core.Commands.DebugCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Core.Commands.DoStunCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -2306,7 +2369,7 @@
         <member name="P:DaLion.Overhaul.Modules.Core.Commands.DoStunCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Core.Commands.DoStunCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Core.Commands.DoStunCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Core.Commands.PrintEnabledEventsCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -2319,7 +2382,7 @@
         <member name="P:DaLion.Overhaul.Modules.Core.Commands.PrintEnabledEventsCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Core.Commands.PrintEnabledEventsCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Core.Commands.PrintEnabledEventsCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Core.Commands.RevalidateCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -2332,7 +2395,7 @@
         <member name="P:DaLion.Overhaul.Modules.Core.Commands.RevalidateCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Core.Commands.RevalidateCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Core.Commands.RevalidateCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="T:DaLion.Overhaul.Modules.Core.ConfigMenu.GenericModConfigMenuCore">
@@ -2702,7 +2765,7 @@
         <member name="P:DaLion.Overhaul.Modules.Ponds.Commands.PrintPondDataCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Ponds.Commands.PrintPondDataCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Ponds.Commands.PrintPondDataCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Ponds.Commands.ResetPondDataCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -2715,7 +2778,7 @@
         <member name="P:DaLion.Overhaul.Modules.Ponds.Commands.ResetPondDataCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Ponds.Commands.ResetPondDataCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Ponds.Commands.ResetPondDataCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Ponds.Commands.SetFishQualityCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -2728,7 +2791,7 @@
         <member name="P:DaLion.Overhaul.Modules.Ponds.Commands.SetFishQualityCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Ponds.Commands.SetFishQualityCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Ponds.Commands.SetFishQualityCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Ponds.Commands.UnlockPopulationGatesCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -2741,7 +2804,7 @@
         <member name="P:DaLion.Overhaul.Modules.Ponds.Commands.UnlockPopulationGatesCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Ponds.Commands.UnlockPopulationGatesCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Ponds.Commands.UnlockPopulationGatesCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Ponds.Commands.UpdateMaxOccupancyCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -2754,7 +2817,7 @@
         <member name="P:DaLion.Overhaul.Modules.Ponds.Commands.UpdateMaxOccupancyCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Ponds.Commands.UpdateMaxOccupancyCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Ponds.Commands.UpdateMaxOccupancyCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="T:DaLion.Overhaul.Modules.Ponds.Config">
@@ -2975,7 +3038,7 @@
         <member name="P:DaLion.Overhaul.Modules.Professions.Commands.AddProfessionsCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.AddProfessionsCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.AddProfessionsCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Professions.Commands.ClearNewLevelsCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -2988,7 +3051,7 @@
         <member name="P:DaLion.Overhaul.Modules.Professions.Commands.ClearNewLevelsCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.ClearNewLevelsCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.ClearNewLevelsCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Professions.Commands.MaxAnimalDispositionsCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -3001,7 +3064,7 @@
         <member name="P:DaLion.Overhaul.Modules.Professions.Commands.MaxAnimalDispositionsCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.MaxAnimalDispositionsCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.MaxAnimalDispositionsCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Professions.Commands.MaxFishingAuditCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -3014,7 +3077,7 @@
         <member name="P:DaLion.Overhaul.Modules.Professions.Commands.MaxFishingAuditCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.MaxFishingAuditCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.MaxFishingAuditCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Professions.Commands.PrintFishingAuditCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -3027,7 +3090,7 @@
         <member name="P:DaLion.Overhaul.Modules.Professions.Commands.PrintFishingAuditCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.PrintFishingAuditCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.PrintFishingAuditCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Professions.Commands.PrintModDataCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -3040,7 +3103,7 @@
         <member name="P:DaLion.Overhaul.Modules.Professions.Commands.PrintModDataCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.PrintModDataCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.PrintModDataCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Professions.Commands.PrintProfessionsCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -3053,7 +3116,7 @@
         <member name="P:DaLion.Overhaul.Modules.Professions.Commands.PrintProfessionsCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.PrintProfessionsCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.PrintProfessionsCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Professions.Commands.PrintRegisteredUltimateCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -3066,7 +3129,7 @@
         <member name="P:DaLion.Overhaul.Modules.Professions.Commands.PrintRegisteredUltimateCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.PrintRegisteredUltimateCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.PrintRegisteredUltimateCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Professions.Commands.PrintSkillLevelsCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -3079,7 +3142,7 @@
         <member name="P:DaLion.Overhaul.Modules.Professions.Commands.PrintSkillLevelsCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.PrintSkillLevelsCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.PrintSkillLevelsCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Professions.Commands.RemoveProfessionsCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -3092,7 +3155,7 @@
         <member name="P:DaLion.Overhaul.Modules.Professions.Commands.RemoveProfessionsCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.RemoveProfessionsCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.RemoveProfessionsCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Professions.Commands.ResetSkillLevelsCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -3105,7 +3168,7 @@
         <member name="P:DaLion.Overhaul.Modules.Professions.Commands.ResetSkillLevelsCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.ResetSkillLevelsCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.ResetSkillLevelsCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Professions.Commands.SetModDataCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -3118,7 +3181,7 @@
         <member name="P:DaLion.Overhaul.Modules.Professions.Commands.SetModDataCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.SetModDataCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.SetModDataCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Professions.Commands.SetRegisteredUltimateCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -3131,7 +3194,7 @@
         <member name="P:DaLion.Overhaul.Modules.Professions.Commands.SetRegisteredUltimateCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.SetRegisteredUltimateCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.SetRegisteredUltimateCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Professions.Commands.SetSkillLevelsCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -3144,7 +3207,7 @@
         <member name="P:DaLion.Overhaul.Modules.Professions.Commands.SetSkillLevelsCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.SetSkillLevelsCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.SetSkillLevelsCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Professions.Commands.SetUltimateChargeCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -3157,7 +3220,7 @@
         <member name="P:DaLion.Overhaul.Modules.Professions.Commands.SetUltimateChargeCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.SetUltimateChargeCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.SetUltimateChargeCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Professions.Commands.TreasureHuntCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -3170,7 +3233,7 @@
         <member name="P:DaLion.Overhaul.Modules.Professions.Commands.TreasureHuntCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.TreasureHuntCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Professions.Commands.TreasureHuntCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="T:DaLion.Overhaul.Modules.Professions.Config">
@@ -3323,7 +3386,7 @@
         </member>
         <member name="P:DaLion.Overhaul.Modules.Professions.Config.BaseSkillExpMultipliers">
             <summary>Gets a multiplier that will be applied to all skill experience gained from the start of the game.</summary>
-            <remarks>The order is Farming, Fishing, Foraging, Mining, Combat.</remarks>
+            <remarks>The order is Farming, Fishing, Foraging, Mining, Combat and Luck (if installed).</remarks>
         </member>
         <member name="P:DaLion.Overhaul.Modules.Professions.Config.CustomSkillExpMultipliers">
             <summary>Gets multiplies all skill experience gained from the start of the game, for custom skills.</summary>
@@ -4384,6 +4447,10 @@
             <param name="farmer">The <see cref="T:StardewValley.Farmer"/>.</param>
             <returns>A <see cref="T:StardewValley.Object"/> quality level.</returns>
         </member>
+        <member name="M:DaLion.Overhaul.Modules.Professions.Extensions.FarmerExtensions.AddSpelunkerMomentum(StardewValley.Farmer)">
+            <summary>Applies <see cref="F:DaLion.Overhaul.Modules.Professions.Profession.Spelunker"/> effects following interaction with a ladder or sink hole.</summary>
+            <param name="farmer">The <see cref="T:StardewValley.Farmer"/>.</param>
+        </member>
         <member name="M:DaLion.Overhaul.Modules.Professions.Extensions.FarmerExtensions.GetRaisedSlimes(StardewValley.Farmer)">
             <summary>Enumerates the <see cref="T:StardewValley.Monsters.GreenSlime"/>s currently inhabiting owned <see cref="T:StardewValley.SlimeHutch"/>es.</summary>
             <param name="farmer">The <see cref="T:StardewValley.Farmer"/>.</param>
@@ -4442,7 +4509,7 @@
             <param name="profession">The <see cref="T:DaLion.Overhaul.Modules.Professions.IProfession"/> to check.</param>
             <returns><see langword="true"/> if the <paramref name="location"/> has at least one <see cref="T:StardewValley.Farmer"/> with the specified <paramref name="profession"/>, otherwise <see langword="false"/>.</returns>
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Professions.Extensions.GameLocationExtensions.DoesAnyPlayerHereHaveProfession(StardewValley.GameLocation,DaLion.Overhaul.Modules.Professions.IProfession,System.Collections.Generic.IList{StardewValley.Farmer}@)">
+        <member name="M:DaLion.Overhaul.Modules.Professions.Extensions.GameLocationExtensions.DoesAnyPlayerHereHaveProfession(StardewValley.GameLocation,DaLion.Overhaul.Modules.Professions.IProfession,System.Collections.Generic.List{StardewValley.Farmer}@)">
             <summary>
                 Determines whether any <see cref="T:StardewValley.Farmer"/> in this <paramref name="location"/> has the specified
                 <paramref name="profession"/> and gets a <see cref="T:System.Collections.Generic.List`1"/> of those <see cref="T:StardewValley.Farmer"/>s.
@@ -4791,6 +4858,9 @@
         </member>
         <member name="P:DaLion.Overhaul.Modules.Professions.LuckSkill.MaxLevel">
             <inheritdoc />
+        </member>
+        <member name="P:DaLion.Overhaul.Modules.Professions.LuckSkill.Instance">
+            <summary>Gets the singleton <see cref="T:DaLion.Overhaul.Modules.Professions.LuckSkill"/> instance.</summary>
         </member>
         <member name="M:DaLion.Overhaul.Modules.Professions.LuckSkill.Revalidate">
             <inheritdoc />
@@ -5492,7 +5562,7 @@
         <member name="M:DaLion.Overhaul.Modules.Professions.Patchers.Integrations.NewSkillsPageCtorPatcher.#ctor">
             <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Professions.Patchers.Integrations.NewSkillsPageCtorPatcher"/> class.</summary>
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Professions.Patchers.Integrations.NewSkillsPageCtorPatcher.SkillsPageCtorPostfix(StardewValley.Menus.IClickableMenu)">
+        <member name="M:DaLion.Overhaul.Modules.Professions.Patchers.Integrations.NewSkillsPageCtorPatcher.NewSkillsPageCtorPostfix(SpaceCore.Interface.NewSkillsPage)">
             <summary>
                 Patch to increase the width of the skills page in the game menu to fit prestige ribbons + color yellow skill
                 bars to green for level >10.
@@ -5507,8 +5577,14 @@
         <member name="M:DaLion.Overhaul.Modules.Professions.Patchers.Integrations.NewSkillsPagePerformHoverActionPatcher.#ctor">
             <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Professions.Patchers.Integrations.NewSkillsPagePerformHoverActionPatcher"/> class.</summary>
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Professions.Patchers.Integrations.NewSkillsPagePerformHoverActionPatcher.NewSkillsPagePerformHoverActionPostfix(StardewValley.Menus.IClickableMenu,System.Int32,System.Int32,System.String@)">
+        <member name="M:DaLion.Overhaul.Modules.Professions.Patchers.Integrations.NewSkillsPagePerformHoverActionPatcher.NewSkillsPagePerformHoverActionPostfix(SpaceCore.Interface.NewSkillsPage,System.Int32,System.Int32,System.String@)">
             <summary>Patch to add prestige ribbon hover text + truncate profession descriptions in hover menu.</summary>
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.Professions.Patchers.Integrations.SkillLevelUpMenuCtorPatcher.#ctor">
+            <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Professions.Patchers.Integrations.SkillLevelUpMenuCtorPatcher"/> class.</summary>
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.Professions.Patchers.Integrations.SkillLevelUpMenuCtorPatcher.LevelUpMenuCtorTranspiler(System.Collections.Generic.IEnumerable{HarmonyLib.CodeInstruction},System.Reflection.Emit.ILGenerator,System.Reflection.MethodBase)">
+            <summary>Patch to prevent duplicate profession acquisition + display end of level up dialogues.</summary>
         </member>
         <member name="M:DaLion.Overhaul.Modules.Professions.Patchers.Integrations.SkillLevelUpMenuDrawPatcher.#ctor">
             <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Professions.Patchers.Integrations.SkillLevelUpMenuDrawPatcher"/> class.</summary>
@@ -5518,9 +5594,6 @@
         </member>
         <member name="M:DaLion.Overhaul.Modules.Professions.Patchers.Integrations.SkillLevelUpMenuUpdatePatcher.#ctor">
             <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Professions.Patchers.Integrations.SkillLevelUpMenuUpdatePatcher"/> class.</summary>
-        </member>
-        <member name="M:DaLion.Overhaul.Modules.Professions.Patchers.Integrations.SkillLevelUpMenuUpdatePatcher.SkillLevelUpMenuUpdatePrefix(System.Int32,System.Boolean,System.Boolean@,System.Boolean@,System.Boolean@,System.Collections.Generic.List{System.Int32})">
-            <summary>Patch to idiot-proof the level-up menu. </summary>
         </member>
         <member name="M:DaLion.Overhaul.Modules.Professions.Patchers.Integrations.SkillLevelUpMenuUpdatePatcher.SkillLevelUpMenuUpdateTranspiler(System.Collections.Generic.IEnumerable{HarmonyLib.CodeInstruction},System.Reflection.Emit.ILGenerator,System.Reflection.MethodBase)">
             <summary>Patch to prevent duplicate profession acquisition.</summary>
@@ -5570,7 +5643,7 @@
         <member name="M:DaLion.Overhaul.Modules.Professions.Patchers.Mining.GameLocationExplodePatcher.#ctor">
             <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Professions.Patchers.Mining.GameLocationExplodePatcher"/> class.</summary>
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Professions.Patchers.Mining.GameLocationExplodePatcher.GameLocationExplodePrefix(StardewValley.GameLocation,Microsoft.Xna.Framework.Vector2,System.Int32,StardewValley.Farmer)">
+        <member name="M:DaLion.Overhaul.Modules.Professions.Patchers.Mining.GameLocationExplodePatcher.GameLocationExplodePostfix(StardewValley.GameLocation,Microsoft.Xna.Framework.Vector2,System.Int32,StardewValley.Farmer)">
             <summary>Patch for Blaster double coal chance + Demolitionist speed burst.</summary>
         </member>
         <member name="M:DaLion.Overhaul.Modules.Professions.Patchers.Mining.GameLocationOnStoneDestroyedPatcher.#ctor">
@@ -5578,6 +5651,12 @@
         </member>
         <member name="M:DaLion.Overhaul.Modules.Professions.Patchers.Mining.GameLocationOnStoneDestroyedPatcher.GameLocationOnStoneDestroyedTranspiler(System.Collections.Generic.IEnumerable{HarmonyLib.CodeInstruction},System.Reflection.MethodBase)">
             <summary>Patch to remove Prospector double coal chance.</summary>
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.Professions.Patchers.Mining.MineShaftCheckActionPatcher.#ctor">
+            <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Professions.Patchers.Mining.MineShaftCheckActionPatcher"/> class.</summary>
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.Professions.Patchers.Mining.MineShaftCheckActionPatcher.MineShaftCheckActionTranspiler(System.Collections.Generic.IEnumerable{HarmonyLib.CodeInstruction},System.Reflection.Emit.ILGenerator,System.Reflection.MethodBase)">
+            <summary>Increment Spelunker buff on ladder interaction.</summary>
         </member>
         <member name="M:DaLion.Overhaul.Modules.Professions.Patchers.Mining.MineShaftCheckStoneForItemsPatcher.#ctor">
             <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Professions.Patchers.Mining.MineShaftCheckStoneForItemsPatcher"/> class.</summary>
@@ -5587,6 +5666,12 @@
                 Patch for Spelunker ladder down chance bonus + remove Geologist paired gem chance + remove Excavator double
                 geode chance + remove Prospector double coal chance.
             </summary>
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.Professions.Patchers.Mining.MineShaftEnterMineShaftPatcher.#ctor">
+            <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Professions.Patchers.Mining.MineShaftEnterMineShaftPatcher"/> class.</summary>
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.Professions.Patchers.Mining.MineShaftEnterMineShaftPatcher.MineShaftEnterMineShaftPostfix">
+            <summary>Increment Spelunker buff on shaft interaction.</summary>
         </member>
         <member name="M:DaLion.Overhaul.Modules.Professions.Patchers.Mining.ObjectGetMinutesForCrystalariumPatcher.#ctor">
             <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Professions.Patchers.Mining.ObjectGetMinutesForCrystalariumPatcher"/> class.</summary>
@@ -6741,7 +6826,7 @@
         <member name="P:DaLion.Overhaul.Modules.Rings.Commands.AddGemstonesCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Rings.Commands.AddGemstonesCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Rings.Commands.AddGemstonesCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Rings.Commands.ClearGemstonesCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -6754,7 +6839,7 @@
         <member name="P:DaLion.Overhaul.Modules.Rings.Commands.ClearGemstonesCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Rings.Commands.ClearGemstonesCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Rings.Commands.ClearGemstonesCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="T:DaLion.Overhaul.Modules.Rings.Config">
@@ -7862,7 +7947,7 @@
         <member name="P:DaLion.Overhaul.Modules.Taxes.Commands.DoTaxesCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Taxes.Commands.DoTaxesCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Taxes.Commands.DoTaxesCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Taxes.Commands.SetDebtCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -7875,7 +7960,7 @@
         <member name="P:DaLion.Overhaul.Modules.Taxes.Commands.SetDebtCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Taxes.Commands.SetDebtCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Taxes.Commands.SetDebtCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Taxes.Commands.SetExpensesCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -7888,7 +7973,7 @@
         <member name="P:DaLion.Overhaul.Modules.Taxes.Commands.SetExpensesCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Taxes.Commands.SetExpensesCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Taxes.Commands.SetExpensesCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Taxes.Commands.SetIncomeCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -7901,7 +7986,7 @@
         <member name="P:DaLion.Overhaul.Modules.Taxes.Commands.SetIncomeCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Taxes.Commands.SetIncomeCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Taxes.Commands.SetIncomeCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="T:DaLion.Overhaul.Modules.Taxes.Config">
@@ -8001,7 +8086,7 @@
         <member name="P:DaLion.Overhaul.Modules.Tools.Commands.AddEnchantmentsCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Tools.Commands.AddEnchantmentsCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Tools.Commands.AddEnchantmentsCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Tools.Commands.AddEnchantmentsCommand.GetUsage">
@@ -8017,7 +8102,7 @@
         <member name="P:DaLion.Overhaul.Modules.Tools.Commands.ClearEnchantmentsCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Tools.Commands.ClearEnchantmentsCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Tools.Commands.ClearEnchantmentsCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Tools.Commands.GetToolsCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -8030,7 +8115,7 @@
         <member name="P:DaLion.Overhaul.Modules.Tools.Commands.GetToolsCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Tools.Commands.GetToolsCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Tools.Commands.GetToolsCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Tools.Commands.RemoveEnchantmentsCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
@@ -8043,7 +8128,7 @@
         <member name="P:DaLion.Overhaul.Modules.Tools.Commands.RemoveEnchantmentsCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Tools.Commands.RemoveEnchantmentsCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Tools.Commands.RemoveEnchantmentsCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Tools.Commands.RemoveEnchantmentsCommand.GetUsage">
@@ -8059,7 +8144,7 @@
         <member name="P:DaLion.Overhaul.Modules.Tools.Commands.UpgradeToolsCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Tools.Commands.UpgradeToolsCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Tools.Commands.UpgradeToolsCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="M:DaLion.Overhaul.Modules.Tools.Commands.UpgradeToolsCommand.GetUsage">
@@ -8083,11 +8168,11 @@
         <member name="P:DaLion.Overhaul.Modules.Tools.Config.Scythe">
             <inheritdoc cref="T:DaLion.Overhaul.Modules.Tools.Configs.WateringCanConfig"/>
         </member>
-        <member name="P:DaLion.Overhaul.Modules.Tools.Config.RequireModkey">
-            <summary>Gets a value indicating whether determines whether charging requires a mod key to activate.</summary>
-        </member>
-        <member name="P:DaLion.Overhaul.Modules.Tools.Config.Modkey">
+        <member name="P:DaLion.Overhaul.Modules.Tools.Config.ModKey">
             <summary>Gets the chosen mod key(s).</summary>
+        </member>
+        <member name="P:DaLion.Overhaul.Modules.Tools.Config.ChargingRequiresModKey">
+            <summary>Gets a value indicating whether determines whether charging requires a mod key to activate.</summary>
         </member>
         <member name="P:DaLion.Overhaul.Modules.Tools.Config.HideAffectedTiles">
             <summary>Gets a value indicating whether determines whether to show affected tiles overlay while charging.</summary>
@@ -8100,6 +8185,9 @@
         </member>
         <member name="P:DaLion.Overhaul.Modules.Tools.Config.FaceMouseCursor">
             <summary>Gets a value indicating whether face the current cursor position before swinging your tools.</summary>
+        </member>
+        <member name="P:DaLion.Overhaul.Modules.Tools.Config.EnableAutoSelection">
+            <summary>Gets a value indicating whether to allow auto-selecting tools.</summary>
         </member>
         <member name="M:DaLion.Overhaul.Modules.Tools.Config.Validate">
             <inheritdoc />
@@ -8360,6 +8448,36 @@
         <member name="M:DaLion.Overhaul.Modules.Tools.Events.ToolGameLaunchedEvent.OnGameLaunchedImpl(System.Object,StardewModdingAPI.Events.GameLaunchedEventArgs)">
             <inheritdoc />
         </member>
+        <member name="M:DaLion.Overhaul.Modules.Tools.Events.ToolInventoryChangedEvent.#ctor(DaLion.Shared.Events.EventManager)">
+            <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Tools.Events.ToolInventoryChangedEvent"/> class.</summary>
+            <param name="manager">The <see cref="T:DaLion.Shared.Events.EventManager"/> instance that manages this event.</param>
+        </member>
+        <member name="P:DaLion.Overhaul.Modules.Tools.Events.ToolInventoryChangedEvent.IsEnabled">
+            <inheritdoc />
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.Tools.Events.ToolInventoryChangedEvent.OnInventoryChangedImpl(System.Object,StardewModdingAPI.Events.InventoryChangedEventArgs)">
+            <inheritdoc />
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.Tools.Events.ToolSaveLoadedEvent.#ctor(DaLion.Shared.Events.EventManager)">
+            <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Tools.Events.ToolSaveLoadedEvent"/> class.</summary>
+            <param name="manager">The <see cref="T:DaLion.Shared.Events.EventManager"/> instance that manages this event.</param>
+        </member>
+        <member name="P:DaLion.Overhaul.Modules.Tools.Events.ToolSaveLoadedEvent.IsEnabled">
+            <inheritdoc />
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.Tools.Events.ToolSaveLoadedEvent.OnSaveLoadedImpl(System.Object,StardewModdingAPI.Events.SaveLoadedEventArgs)">
+            <inheritdoc />
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.Tools.Events.ToolSavingEvent.#ctor(DaLion.Shared.Events.EventManager)">
+            <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Tools.Events.ToolSavingEvent"/> class.</summary>
+            <param name="manager">The <see cref="T:DaLion.Shared.Events.EventManager"/> instance that manages this event.</param>
+        </member>
+        <member name="P:DaLion.Overhaul.Modules.Tools.Events.ToolSavingEvent.IsEnabled">
+            <inheritdoc />
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.Tools.Events.ToolSavingEvent.OnSavingImpl(System.Object,StardewModdingAPI.Events.SavingEventArgs)">
+            <inheritdoc />
+        </member>
         <member name="T:DaLion.Overhaul.Modules.Tools.Extensions.FarmerExtensions">
             <summary>Extensions for the <see cref="T:StardewValley.Farmer"/> class.</summary>
         </member>
@@ -8463,6 +8581,24 @@
         <member name="M:DaLion.Overhaul.Modules.Tools.Patchers.HoeDoFunctionPatcher.HoeDoFunctionTranspiler(System.Collections.Generic.IEnumerable{HarmonyLib.CodeInstruction},System.Reflection.MethodBase)">
             <summary>Apply base stamina multiplier + stamina cost cap.</summary>
         </member>
+        <member name="M:DaLion.Overhaul.Modules.Tools.Patchers.InventoryPageDrawPatcher.#ctor">
+            <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Tools.Patchers.InventoryPageDrawPatcher"/> class.</summary>
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.Tools.Patchers.InventoryPageDrawPatcher.InventoryPageDrawTranspiler(System.Collections.Generic.IEnumerable{HarmonyLib.CodeInstruction},System.Reflection.MethodBase)">
+            <summary>Draw selectable indicator.</summary>
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.Tools.Patchers.InventoryPageReceiveClickPatcher.#ctor">
+            <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Tools.Patchers.InventoryPageReceiveClickPatcher"/> class.</summary>
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.Tools.Patchers.InventoryPageReceiveClickPatcher.ApplyImpl(HarmonyLib.Harmony)">
+            <inheritdoc />
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.Tools.Patchers.InventoryPageReceiveClickPatcher.UnapplyImpl(HarmonyLib.Harmony)">
+            <inheritdoc />
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.Tools.Patchers.InventoryPageReceiveClickPatcher.InventoryPageReceiveClickPrefix(StardewValley.Item,System.Boolean)">
+            <summary>Toggle selectable tool.</summary>
+        </member>
         <member name="M:DaLion.Overhaul.Modules.Tools.Patchers.MeleeWeaponDoDamagePatcher.#ctor">
             <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Tools.Patchers.MeleeWeaponDoDamagePatcher"/> class.</summary>
         </member>
@@ -8511,17 +8647,23 @@
         <member name="M:DaLion.Overhaul.Modules.Tools.Patchers.SwiftToolEnchantmentCanApplyToPatcher.SwiftToolEnchantmentCanApplyToPrefix(System.Boolean@,StardewValley.Item)">
             <summary>Allow apply Swift enchant to Watering Can.</summary>
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Tools.Patchers.ToolDrawPatcher.#ctor">
-            <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Tools.Patchers.ToolDrawPatcher"/> class.</summary>
+        <member name="M:DaLion.Overhaul.Modules.Tools.Patchers.ToolbarDrawPatcher.#ctor">
+            <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Tools.Patchers.ToolbarDrawPatcher"/> class.</summary>
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Tools.Patchers.ToolDrawPatcher.ToolDrawPrefix">
-            <summary>Hide affected tiles overlay.</summary>
+        <member name="M:DaLion.Overhaul.Modules.Tools.Patchers.ToolbarDrawPatcher.ToolbarDrawTranspiler(System.Collections.Generic.IEnumerable{HarmonyLib.CodeInstruction},System.Reflection.MethodBase)">
+            <summary>Draw selectable indicator.</summary>
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Tools.Patchers.ToolDrawTooltipPatcher.#ctor">
-            <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Tools.Patchers.ToolDrawTooltipPatcher"/> class.</summary>
+        <member name="M:DaLion.Overhaul.Modules.Tools.Patchers.ToolbarReceiveClickPatcher.#ctor">
+            <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Tools.Patchers.ToolbarReceiveClickPatcher"/> class.</summary>
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Tools.Patchers.ToolDrawTooltipPatcher.ToolDrawTooltipPostfix(StardewValley.Tools.MeleeWeapon,Microsoft.Xna.Framework.Graphics.SpriteBatch,System.Int32@,System.Int32@,Microsoft.Xna.Framework.Graphics.SpriteFont,System.Single,System.Text.StringBuilder)">
-            <summary>Draw Scythe enchantment effects in tooltip.</summary>
+        <member name="M:DaLion.Overhaul.Modules.Tools.Patchers.ToolbarReceiveClickPatcher.ApplyImpl(HarmonyLib.Harmony)">
+            <inheritdoc />
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.Tools.Patchers.ToolbarReceiveClickPatcher.UnapplyImpl(HarmonyLib.Harmony)">
+            <inheritdoc />
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.Tools.Patchers.ToolbarReceiveClickPatcher.ToolbarReceiveClickPrefix(StardewValley.Item,System.Boolean)">
+            <summary>Toggle selectable tool.</summary>
         </member>
         <member name="M:DaLion.Overhaul.Modules.Tools.Patchers.ToolEndUsingPatcher.#ctor">
             <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Tools.Patchers.ToolEndUsingPatcher"/> class.</summary>
@@ -8579,6 +8721,16 @@
         <member name="T:DaLion.Overhaul.Modules.Tools.State">
             <summary>The ephemeral runtime state for Tools.</summary>
         </member>
+        <member name="T:DaLion.Overhaul.Modules.Tools.ToolSelector">
+            <summary>Smart <see cref="T:StardewValley.Tool"/> selector.</summary>
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.Tools.ToolSelector.SmartSelect(Microsoft.Xna.Framework.Vector2,StardewValley.Farmer,StardewValley.GameLocation)">
+            <summary>Intelligently selects the appropriate tool for the given <paramref name="tile"/>.</summary>
+            <param name="tile">The action tile.</param>
+            <param name="who">The <see cref="T:StardewValley.Farmer"/>.</param>
+            <param name="location">The current <see cref="T:StardewValley.GameLocation"/>.</param>
+            <returns>The integer index of the appropriate <see cref="T:StardewValley.Tool"/> in <paramref name="who"/>'s inventory.</returns>
+        </member>
         <member name="T:DaLion.Overhaul.Modules.Tools.UpgradeLevel">
             <summary>The upgrade level of a <see cref="T:StardewValley.Tool"/>.</summary>
         </member>
@@ -8606,6 +8758,12 @@
         <member name="F:DaLion.Overhaul.Modules.Tools.UpgradeLevel.Enchanted">
             <summary>Extra upgrade for tools with the Reaching Enchantment.</summary>
         </member>
+        <member name="M:DaLion.Overhaul.Modules.MeleeWeapons.Patchers.MeleeWeaponDrawTooltipPatcher.#ctor">
+            <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.MeleeWeapons.Patchers.MeleeWeaponDrawTooltipPatcher"/> class.</summary>
+        </member>
+        <member name="M:DaLion.Overhaul.Modules.MeleeWeapons.Patchers.MeleeWeaponDrawTooltipPatcher.MeleeWeaponDrawTooltipPostfix(StardewValley.Tools.MeleeWeapon,Microsoft.Xna.Framework.Graphics.SpriteBatch,System.Int32@,System.Int32@,Microsoft.Xna.Framework.Graphics.SpriteFont,System.Single)">
+            <summary>Draw Scythe enchantment effects in tooltip.</summary>
+        </member>
         <member name="M:DaLion.Overhaul.Modules.Tweex.Commands.SetAgeCommand.#ctor(DaLion.Shared.Commands.CommandHandler)">
             <summary>Initializes a new instance of the <see cref="T:DaLion.Overhaul.Modules.Tweex.Commands.SetAgeCommand"/> class.</summary>
             <param name="handler">The <see cref="T:DaLion.Shared.Commands.CommandHandler"/> instance that handles this command.</param>
@@ -8616,7 +8774,7 @@
         <member name="P:DaLion.Overhaul.Modules.Tweex.Commands.SetAgeCommand.Documentation">
             <inheritdoc />
         </member>
-        <member name="M:DaLion.Overhaul.Modules.Tweex.Commands.SetAgeCommand.Callback(System.String[])">
+        <member name="M:DaLion.Overhaul.Modules.Tweex.Commands.SetAgeCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="T:DaLion.Overhaul.Modules.Tweex.Config">
@@ -8657,7 +8815,7 @@
         </member>
         <member name="P:DaLion.Overhaul.Modules.Tweex.Config.DairyArtisanMachines">
             <summary>
-                Gets add custom mod Artisan machines to this list to make them compatible with
+                Gets a list of Artisan machines which should be compatible with
                 LargeProductsYieldQuantityOverQuality.
             </summary>
         </member>
@@ -8853,6 +9011,9 @@
         <member name="T:DaLion.Overhaul.Watchers">
             <summary>Holds global <see cref="T:DaLion.Shared.Watchers.IWatcher"/> instances.</summary>
         </member>
+        <member name="P:DaLion.Overhaul.Watchers.ProfessionsWatcher">
+            <summary>Gets the <see cref="T:DaLion.Shared.Watchers.ICollectionWatcher`1"/> which monitors changes to the local player's professions.</summary>
+        </member>
         <member name="T:DaLion.Shared.Attributes.DebugAttribute">
             <summary>Indicates that an implicitly-used marked symbol should only be available in debug mode.</summary>
         </member>
@@ -9037,7 +9198,7 @@
         <member name="P:DaLion.Shared.Commands.ConsoleCommand.Handler">
             <summary>Gets the <see cref="T:DaLion.Shared.Commands.CommandHandler"/> instance that handles this command.</summary>
         </member>
-        <member name="M:DaLion.Shared.Commands.ConsoleCommand.Callback(System.String[])">
+        <member name="M:DaLion.Shared.Commands.ConsoleCommand.Callback(System.String,System.String[])">
             <inheritdoc />
         </member>
         <member name="T:DaLion.Shared.Commands.CommandHandler">
@@ -9113,8 +9274,9 @@
         <member name="P:DaLion.Shared.Commands.IConsoleCommand.Documentation">
             <summary>Gets the human-readable documentation shown when the player runs the 'help' command.</summary>
         </member>
-        <member name="M:DaLion.Shared.Commands.IConsoleCommand.Callback(System.String[])">
+        <member name="M:DaLion.Shared.Commands.IConsoleCommand.Callback(System.String,System.String[])">
             <summary>The action that will be executed.</summary>
+            <param name="trigger">The trigger word.</param>
             <param name="args">The command arguments.</param>
         </member>
         <member name="T:DaLion.Shared.Comparers.EquatableComparer`1">
@@ -11700,25 +11862,32 @@
             <param name="enumerable">The <see cref="T:System.Collections.Generic.IEnumerable`1"/>.</param>
             <returns>A new <see cref="T:System.Collections.Generic.IEnumerable`1"/> that contains only the non-null values of the original.</returns>
         </member>
+        <member name="M:DaLion.Shared.Extensions.Collections.EnumerableExtensions.Choose``1(System.Collections.Generic.IEnumerable{``0},System.Random)">
+            <summary>Selects a random value from amongst the specified <paramref name="enumerable"/>.</summary>
+            <typeparam name="T">The type of elements in the <paramref name="enumerable"/>.</typeparam>
+            <param name="enumerable">An <see cref="T:System.Collections.Generic.IEnumerable`1"/>.</param>
+            <param name="r">A <see cref="T:System.Random"/> number generator.</param>
+            <returns>A random <typeparamref name="T"/> element from within <paramref name="enumerable"/>.</returns>
+        </member>
         <member name="M:DaLion.Shared.Extensions.Collections.EnumerableExtensions.StandardDeviation(System.Collections.Generic.IEnumerable{System.Int32})">
             <summary>Calculates the standard deviation of the <paramref name="values"/>.</summary>
-            <param name="values">An <see cref="T:System.Collections.Generic.IEnumerable`1"/> of <see cref="T:System.Int32"/> values..</param>
+            <param name="values">An <see cref="T:System.Collections.Generic.IEnumerable`1"/> of <see cref="T:System.Int32"/> values.</param>
             <returns>The standard deviation of values in <paramref name="values"/>.</returns>
         </member>
         <member name="M:DaLion.Shared.Extensions.Collections.EnumerableExtensions.StandardDeviation(System.Collections.Generic.IEnumerable{System.Single})">
             <summary>Calculates the standard deviation of the <paramref name="values"/>.</summary>
-            <param name="values">An <see cref="T:System.Collections.Generic.IEnumerable`1"/> of <see cref="T:System.Single"/> values..</param>
+            <param name="values">An <see cref="T:System.Collections.Generic.IEnumerable`1"/> of <see cref="T:System.Single"/> values.</param>
             <returns>The standard deviation of values in <paramref name="values"/>.</returns>
         </member>
         <member name="M:DaLion.Shared.Extensions.Collections.EnumerableExtensions.StandardDeviation(System.Collections.Generic.IEnumerable{System.Double})">
             <summary>Calculates the standard deviation of the <paramref name="values"/>.</summary>
-            <param name="values">An <see cref="T:System.Collections.Generic.IEnumerable`1"/> of <see cref="T:System.Double"/> values..</param>
+            <param name="values">An <see cref="T:System.Collections.Generic.IEnumerable`1"/> of <see cref="T:System.Double"/> values.</param>
             <returns>The standard deviation of values in <paramref name="values"/>.</returns>
         </member>
         <member name="M:DaLion.Shared.Extensions.Collections.EnumerableExtensions.StandardDeviation``1(System.Collections.Generic.IEnumerable{``0})">
             <summary>Calculates the standard deviation the <paramref name="values"/>.</summary>
             <typeparam name="TEnum">A type of <see cref="T:System.Enum"/>.</typeparam>
-            <param name="values">An <see cref="T:System.Collections.Generic.IEnumerable`1"/> of <see cref="T:System.Int32"/> values..</param>
+            <param name="values">An <see cref="T:System.Collections.Generic.IEnumerable`1"/> of <see cref="T:System.Int32"/> values.</param>
             <returns>The standard deviation of values in <paramref name="values"/>.</returns>
         </member>
         <member name="T:DaLion.Shared.Extensions.Collections.ListExtensions">
@@ -12207,6 +12376,12 @@
             <param name="building">The <see cref="T:StardewValley.Buildings.Building"/>.</param>
             <returns>The <see cref="T:StardewValley.Farmer"/> instance who constructed the <paramref name="building"/>, or the host of the game session if not found.</returns>
         </member>
+        <member name="M:DaLion.Shared.Extensions.Stardew.BuildingExtensions.IsOwnedBy(StardewValley.Buildings.Building,StardewValley.Farmer)">
+            <summary>Checks whether the <paramref name="building"/> is owned by the specified <see cref="T:StardewValley.Farmer"/>.</summary>
+            <param name="building">The <see cref="T:StardewValley.Buildings.Building"/>.</param>
+            <param name="farmer">The <see cref="T:StardewValley.Farmer"/>.</param>
+            <returns><see langword="true"/> if the <paramref name="building"/>'s owned value is equal to the unique ID of the <paramref name="farmer"/>, otherwise <see langword="false"/>.</returns>
+        </member>
         <member name="M:DaLion.Shared.Extensions.Stardew.BuildingExtensions.DistanceTo(StardewValley.Buildings.Building,StardewValley.Buildings.Building)">
             <summary>
                 Gets the tile distance between this <paramref name="building"/> and some <paramref name="other"/> in the
@@ -12550,6 +12725,12 @@
             <param name="animal">The <see cref="T:StardewValley.FarmAnimal"/>.</param>
             <returns>The <see cref="T:StardewValley.Farmer"/> instance who purchased or owned the parent of the <paramref name="animal"/>, or the host of the game session if not found.</returns>
         </member>
+        <member name="M:DaLion.Shared.Extensions.Stardew.FarmAnimalExtensions.IsOwnedBy(StardewValley.FarmAnimal,StardewValley.Farmer)">
+            <summary>Checks whether the <paramref name="animal"/> is owned by the specified <see cref="T:StardewValley.Farmer"/>.</summary>
+            <param name="animal">The <see cref="T:StardewValley.FarmAnimal"/>.</param>
+            <param name="farmer">The <see cref="T:StardewValley.Farmer"/>.</param>
+            <returns><see langword="true"/> if the <paramref name="animal"/>'s owner ID  value is equal to the unique ID of the <paramref name="farmer"/>, otherwise <see langword="false"/>.</returns>
+        </member>
         <member name="T:DaLion.Shared.Extensions.Stardew.FarmerExtensions">
             <summary>Extensions for the <see cref="T:StardewValley.Farmer"/> class.</summary>
         </member>
@@ -12832,6 +13013,12 @@
             <summary>Get the <see cref="T:StardewValley.Farmer"/> instance who owns this <paramref name="object"/>.</summary>
             <param name="object">The <see cref="T:StardewValley.Object"/>.</param>
             <returns>The <see cref="T:StardewValley.Farmer"/> instance who purchased, found or crafted the <paramref name="object"/>, or the host of the game session if not found.</returns>
+        </member>
+        <member name="M:DaLion.Shared.Extensions.Stardew.SObjectExtensions.IsOwnedBy(StardewValley.Object,StardewValley.Farmer)">
+            <summary>Checks whether the <paramref name="object"/> is owned by the specified <see cref="T:StardewValley.Farmer"/>.</summary>
+            <param name="object">The <see cref="T:StardewValley.Buildings.Building"/>.</param>
+            <param name="farmer">The <see cref="T:StardewValley.Farmer"/>.</param>
+            <returns><see langword="true"/> if the <paramref name="object"/>'s owner value is equal to the unique ID of the <paramref name="farmer"/>, otherwise <see langword="false"/>.</returns>
         </member>
         <member name="M:DaLion.Shared.Extensions.Stardew.SObjectExtensions.DistanceTo(StardewValley.Object,StardewValley.Buildings.Building)">
             <summary>
